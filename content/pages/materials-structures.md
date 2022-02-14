@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Materials/Structures
+type: CourseSection
 uid: b640d5c4-9375-61ab-448e-c8a1ec804a97
 ---
 

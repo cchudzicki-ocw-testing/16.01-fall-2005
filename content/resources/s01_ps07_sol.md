@@ -4,7 +4,12 @@ description: This file contains homogeneous solution, particular solution and to
   solution.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/be38ceb6afa2cde70bee5f9734f094ed_s01_ps07_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: s01_ps07_sol.pdf
+type: OCWFile
 uid: be38ceb6-afa2-cde7-0bee-5f9734f094ed
 ---

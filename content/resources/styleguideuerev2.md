@@ -6,7 +6,11 @@ description: 'This document offers guidelines for writing, formatting, and citin
   required in 16.62X experimental projects lab.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9b70013b752d0b3b82f118de640f646b_styleguideuerev2.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Systems/Labs 04
+parent_type: CourseSection
 resourcetype: Document
 title: styleguideuerev2.pdf
+type: OCWFile
 uid: 9b70013b-752d-0b3b-82f1-18de640f646b
 ---

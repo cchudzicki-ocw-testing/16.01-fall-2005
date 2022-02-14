@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Signals and Systems
+type: CourseSection
 uid: 85c1b0de-227d-e38d-9a55-dc7008c03de7
 ---
 

@@ -3,7 +3,11 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/95ba32da748303317b1ced2fd287e76b_problem_s08.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Signals and Systems
+parent_type: CourseSection
 resourcetype: Document
 title: problem_s08.pdf
+type: OCWFile
 uid: 95ba32da-7483-0331-7b1c-ed2fd287e76b
 ---

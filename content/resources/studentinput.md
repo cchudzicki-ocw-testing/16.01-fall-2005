@@ -3,7 +3,11 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/eff13d25f5129a3469db9d20dd68a978_StudentInput.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Thermodynamics and Propulsion
+parent_type: CourseSection
 resourcetype: Document
 title: StudentInput.pdf
+type: OCWFile
 uid: eff13d25-f512-9a34-69db-9d20dd68a978
 ---

@@ -4,7 +4,12 @@ description: This resource contains handwritten solutions to the given problem s
   on stagnation point.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1f5d1c3361900bf7295154ac68e668d7_f13_ps04_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: f13_ps04_sol.pdf
+type: OCWFile
 uid: 1f5d1c33-6190-0bf7-2951-54ac68e668d7
 ---

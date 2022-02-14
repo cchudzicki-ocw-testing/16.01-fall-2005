@@ -3,7 +3,11 @@ content_type: resource
 description: This resource based on handout for spring term quizzes.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1f1b4e82bae2ff8ce609bc96fe20eedb_sprh04.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Materials/Structures
+parent_type: CourseSection
 resourcetype: Document
 title: sprh04.pdf
+type: OCWFile
 uid: 1f1b4e82-bae2-ff8c-e609-bc96fe20eedb
 ---

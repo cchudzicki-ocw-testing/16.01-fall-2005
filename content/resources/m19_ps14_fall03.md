@@ -4,7 +4,12 @@ description: This resource provides a problem set based on number of independent
   elastic constants and fibre volume fraction.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/bffcbbe67b1a47773f09f156f57f9b29_m19_ps14_fall03.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: m19_ps14_fall03.pdf
+type: OCWFile
 uid: bffcbbe6-7b1a-4777-3f09-f156f57f9b29
 ---

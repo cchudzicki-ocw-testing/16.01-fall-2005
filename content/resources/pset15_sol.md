@@ -4,7 +4,12 @@ description: This file includes solutions to problems on nonlifting irrotational
   exterior and interior normal flows, Young's modulus, and polymer.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/47dfad261dbf2101a5b1f316f95c8ffa_pset15_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pset15_sol.pdf
+type: OCWFile
 uid: 47dfad26-1dbf-2101-a5b1-f316f95c8ffa
 ---

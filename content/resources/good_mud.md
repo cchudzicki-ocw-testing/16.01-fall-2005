@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Thermodynamics and Propulsion
+parent_type: CourseSection
 resourcetype: Image
 title: good_mud.jpg
+type: OCWImage
 uid: e2d8688f-d9c0-a978-fc26-03b5efe07bee
 ---

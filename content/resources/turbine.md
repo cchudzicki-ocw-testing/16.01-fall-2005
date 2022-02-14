@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Thermodynamics and Propulsion
+parent_type: CourseSection
 resourcetype: Image
 title: turbine.jpg
+type: OCWImage
 uid: f2556faf-bbd4-d871-2f1a-e16950a7c006
 ---

@@ -4,7 +4,12 @@ description: This resource contains 2 problems related to the vorticity, strain 
   of fluid and shearing element motions.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9f01ca03317c3d0e4f2042ec786882b8_f11_ps11_fall03.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: f11_ps11_fall03.pdf
+type: OCWFile
 uid: 9f01ca03-317c-3d0e-4f20-42ec786882b8
 ---

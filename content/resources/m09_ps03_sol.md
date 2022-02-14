@@ -5,7 +5,12 @@ description: This resource contains handwritten solutions to the given problem s
   loading.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1f63eaa2582d0d90c69c31fbe7a32acd_m09_ps03_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: m09_ps03_sol.pdf
+type: OCWFile
 uid: 1f63eaa2-582d-0d90-c69c-31fbe7a32acd
 ---

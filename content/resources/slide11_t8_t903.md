@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Thermodynamics and Propulsion
+parent_type: CourseSection
 resourcetype: Image
 title: slide11_t8_t903.jpeg
+type: OCWImage
 uid: 87148994-56a2-36ac-afe1-2e25803d5f02
 ---

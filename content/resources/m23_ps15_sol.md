@@ -4,7 +4,12 @@ description: This resource provides solutions to problem set on potential energy
   a pair of atoms, mean atomic volume and Boltzmann's constant.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1033748ed8275d24d9d7b17b379adf41_m23_ps15_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: m23_ps15_sol.pdf
+type: OCWFile
 uid: 1033748e-d827-5d24-d9d7-b17b379adf41
 ---

@@ -5,7 +5,12 @@ description: This resource contains a problem related to calculate the cross-sec
   beyond a certain level.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/4d52751c193d0568bd5e6ad38ec1fa8f_m11_ps11_fall03.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: m11_ps11_fall03.pdf
+type: OCWFile
 uid: 4d52751c-193d-0568-bd5e-6ad38ec1fa8f
 ---

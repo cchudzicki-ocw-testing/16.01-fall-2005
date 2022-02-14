@@ -3,7 +3,11 @@ content_type: resource
 description: Review questions and answers.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/368d1025b7a9da22f1059e6d410fa2d3_f8_mud.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Fluid Mechanics
+parent_type: CourseSection
 resourcetype: Document
 title: f8_mud.pdf
+type: OCWFile
 uid: 368d1025-b7a9-da22-f105-9e6d410fa2d3
 ---

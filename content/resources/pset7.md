@@ -5,7 +5,12 @@ description: This file includes problems on Materials and Structures, applicatio
   circuits, and constitutive law for capacitors and inductors.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/67700dbf50da0859f9dede7817ef0230_pset7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pset7.pdf
+type: OCWFile
 uid: 67700dbf-50da-0859-f9de-de7817ef0230
 ---

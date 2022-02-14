@@ -4,7 +4,11 @@ description: This resource contains information on the topics of 3D Vortex Filam
   and Lifting Line Theory.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b21b454e7e3e2f145878db1930d2bbfa_f06_sp.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Fluid Mechanics
+parent_type: CourseSection
 resourcetype: Document
 title: f06_sp.pdf
+type: OCWFile
 uid: b21b454e-7e3e-2f14-5878-db1930d2bbfa
 ---

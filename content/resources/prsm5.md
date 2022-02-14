@@ -4,7 +4,11 @@ description: This resource contains concept questions and answers based on momen
   axial displacement and shear force.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/512ba54f4a693ab9cf89b9fa502283d1_prsm5.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Materials/Structures
+parent_type: CourseSection
 resourcetype: Document
 title: prsm5.pdf
+type: OCWFile
 uid: 512ba54f-4a69-3ab9-cf89-b9fa502283d1
 ---

@@ -5,7 +5,12 @@ description: This resource contains handwritten solutions to the given problem s
   equilibrium of moments.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/09bb01fe22c07e603c8fba6853419144_m12_ps04_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: m12_ps04_sol.pdf
+type: OCWFile
 uid: 09bb01fe-22c0-7e60-3c8f-ba6853419144
 ---

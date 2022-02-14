@@ -4,7 +4,12 @@ description: This file includes solutions to problems on thermodynamic cycle, wo
   done, velocity, static temperature and Mach number.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/160c7a6f9968904ad3bed3c60c88b9fa_pset3_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pset3_sol.pdf
+type: OCWFile
 uid: 160c7a6f-9968-904a-d3be-d3c60c88b9fa
 ---
