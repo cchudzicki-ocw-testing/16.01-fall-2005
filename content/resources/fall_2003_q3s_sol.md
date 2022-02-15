@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: fall_2003_q3s_sol.pdf
-type: OCWFile
 uid: 39ee0f81-e638-6af9-331a-317f406440d2
 ---

@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: pset8_sol_04.pdf
-type: OCWFile
 uid: f9557c85-3df1-d7c2-4e36-4f8683ca4f32
 ---

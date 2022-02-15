@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: q2f.pdf
-type: OCWFile
 uid: 97b7295e-75b9-3c3f-a5b5-6b10006bb8b3
 ---

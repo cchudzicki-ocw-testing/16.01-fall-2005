@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Unified Concepts
-type: CourseSection
 uid: 327c8fbc-0586-3637-4667-dc2437a7f1eb
 ---
 

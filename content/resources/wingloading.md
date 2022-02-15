@@ -9,6 +9,5 @@ parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
 resourcetype: Document
 title: wingloading.pdf
-type: OCWFile
 uid: 2d05bd9b-47ad-47c4-b614-c4ca63b60ebc
 ---

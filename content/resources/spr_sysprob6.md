@@ -9,6 +9,5 @@ parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Document
 title: spr_sysprob6.pdf
-type: OCWFile
 uid: 7cd09861-266b-06a8-501f-dbd9faa23d4a
 ---

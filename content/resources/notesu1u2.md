@@ -8,6 +8,5 @@ parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Document
 title: notesu1u2.pdf
-type: OCWFile
 uid: 7308730d-d597-147e-ffd8-6103d795dab4
 ---

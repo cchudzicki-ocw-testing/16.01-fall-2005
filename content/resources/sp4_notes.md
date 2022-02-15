@@ -9,6 +9,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: sp4_notes.pdf
-type: OCWFile
 uid: a157a112-5a8d-9124-4769-504d630eedcf
 ---

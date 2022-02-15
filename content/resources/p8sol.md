@@ -8,6 +8,5 @@ parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
 resourcetype: Document
 title: P8sol.pdf
-type: OCWFile
 uid: e57bfc30-0ce2-948a-6950-83ce20ff3c67
 ---

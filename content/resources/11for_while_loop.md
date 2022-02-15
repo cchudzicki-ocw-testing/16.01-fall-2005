@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 11for_while_loop.pdf
-type: OCWFile
 uid: c1746d6b-390c-043e-9dc0-76002e9eeeec
 ---

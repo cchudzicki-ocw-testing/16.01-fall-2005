@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: recursn_handout.pdf
-type: OCWFile
 uid: 37b87d0d-c5dc-c530-8431-d53531748f32
 ---

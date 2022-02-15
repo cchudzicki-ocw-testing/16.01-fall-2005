@@ -9,6 +9,5 @@ parent_title: Fluid Mechanics
 parent_type: CourseSection
 resourcetype: Document
 title: f06_fall.pdf
-type: OCWFile
 uid: 3bd40cbc-5a3e-6085-8247-6937d91d0822
 ---

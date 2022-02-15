@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 6comp_arc_asmbly.pdf
-type: OCWFile
 uid: 7ae7c083-de1e-e3fc-8f3a-603bb126df8c
 ---

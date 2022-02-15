@@ -9,6 +9,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: fall_2003_ms_lo.pdf
-type: OCWFile
 uid: 469c735f-4354-94d6-a4fc-45c3e190147b
 ---

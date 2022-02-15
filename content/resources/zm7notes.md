@@ -8,6 +8,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: zm7notes.pdf
-type: OCWFile
 uid: 01cc8bc2-ab81-91c3-fde9-69350611bb71
 ---

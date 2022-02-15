@@ -8,6 +8,5 @@ parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
 resourcetype: Document
 title: firstlawvanness.pdf
-type: OCWFile
 uid: 3eb1ba5a-eed9-42b3-1876-e9fe2eadaea2
 ---

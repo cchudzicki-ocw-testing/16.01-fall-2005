@@ -8,6 +8,5 @@ parent_title: Fluid Mechanics
 parent_type: CourseSection
 resourcetype: Document
 title: lec12_17_concept.pdf
-type: OCWFile
 uid: 3c4181d8-0290-f7c4-6c69-e35935e72251
 ---

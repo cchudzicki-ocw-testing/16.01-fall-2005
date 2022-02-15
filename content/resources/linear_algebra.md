@@ -9,6 +9,5 @@ parent_title: Signals and Systems
 parent_type: CourseSection
 resourcetype: Document
 title: linear_algebra.pdf
-type: OCWFile
 uid: 6d6cf6d6-a9f3-98b7-1ad9-50c7fd3d0adf
 ---

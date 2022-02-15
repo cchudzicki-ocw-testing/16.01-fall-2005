@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: if_then.pdf
-type: OCWFile
 uid: e8078b29-5452-4ffc-5b74-00d9e38cebcd
 ---

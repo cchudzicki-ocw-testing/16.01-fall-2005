@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 3_ada_syntax.pdf
-type: OCWFile
 uid: 7a62cbbe-083b-b6e0-ea90-39bca364b227
 ---

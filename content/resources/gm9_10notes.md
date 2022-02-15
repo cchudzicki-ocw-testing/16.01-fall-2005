@@ -8,6 +8,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: gm9_10notes.pdf
-type: OCWFile
 uid: b86998d8-512c-92fe-3d0c-e0f112a7d3d1
 ---

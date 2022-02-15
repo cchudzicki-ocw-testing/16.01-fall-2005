@@ -9,6 +9,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: fall_03_ms_lo.pdf
-type: OCWFile
 uid: 3ca1ba39-498b-e552-a881-10ffe53fc308
 ---

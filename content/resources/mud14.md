@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: mud14.pdf
-type: OCWFile
 uid: 25e99756-10eb-fba7-1fd3-213a97ec820b
 ---

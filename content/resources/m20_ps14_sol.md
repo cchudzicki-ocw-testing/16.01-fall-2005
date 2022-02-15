@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: m20_ps14_sol.pdf
-type: OCWFile
 uid: 77bab122-9b78-75cb-e36f-36b7cd9362db
 ---

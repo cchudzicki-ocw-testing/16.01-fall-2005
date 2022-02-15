@@ -9,6 +9,5 @@ parent_title: Fluid Mechanics
 parent_type: CourseSection
 resourcetype: Document
 title: f07mathdivcurl_fall.pdf
-type: OCWFile
 uid: 3f93639e-0916-cee7-3c9d-587aadf75db2
 ---

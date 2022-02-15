@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 2_ada_char_strgs.pdf
-type: OCWFile
 uid: 7805921f-5e1a-3a93-a3b0-f15aecf87444
 ---

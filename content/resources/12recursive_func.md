@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 12recursive_func.pdf
-type: OCWFile
 uid: 2a7d03ab-04ae-0118-dcf2-d212db1c6fac
 ---

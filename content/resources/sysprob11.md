@@ -8,6 +8,5 @@ parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Document
 title: sysprob11.pdf
-type: OCWFile
 uid: 3c337ce2-0837-10f5-6eb0-5a282494d81e
 ---

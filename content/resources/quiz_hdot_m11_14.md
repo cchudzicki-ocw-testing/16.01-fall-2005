@@ -8,6 +8,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: quiz_hdot_m11_14.pdf
-type: OCWFile
 uid: d6610abb-79ac-e819-84f0-41be6249952a
 ---

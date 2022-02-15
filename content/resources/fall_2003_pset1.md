@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: fall_2003_pset1.pdf
-type: OCWFile
 uid: 311193ee-d160-a0a6-8976-2759d9ae93b2
 ---

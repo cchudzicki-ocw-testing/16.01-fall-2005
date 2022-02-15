@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: f22_ps15_sol.pdf
-type: OCWFile
 uid: f9c8f450-19e9-f3a6-b212-6fd238cc3b88
 ---

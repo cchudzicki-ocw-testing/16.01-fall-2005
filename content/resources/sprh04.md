@@ -8,6 +8,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: sprh04.pdf
-type: OCWFile
 uid: 1f1b4e82-bae2-ff8c-e609-bc96fe20eedb
 ---

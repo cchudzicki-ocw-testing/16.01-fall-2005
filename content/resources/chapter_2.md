@@ -8,6 +8,5 @@ parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
 resourcetype: Document
 title: chapter_2.pdf
-type: OCWFile
 uid: 880ff186-c709-19e3-dfda-ecc6fbc52b97
 ---

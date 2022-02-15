@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 7_trees.pdf
-type: OCWFile
 uid: 2ee16347-df7a-1ef7-267b-817c27e4e61b
 ---

@@ -8,6 +8,5 @@ parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Document
 title: prszu2.pdf
-type: OCWFile
 uid: d81cfb13-c3ac-ddb9-ee90-209a9de30713
 ---

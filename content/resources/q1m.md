@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: q1m.pdf
-type: OCWFile
 uid: 4861617b-9311-dc7b-a3ce-c6de915e4bb9
 ---

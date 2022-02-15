@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 18_morelogic.pdf
-type: OCWFile
 uid: fea0a1d5-22f1-1b5c-596a-db9ff37deee0
 ---

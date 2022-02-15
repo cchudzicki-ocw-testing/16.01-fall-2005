@@ -8,6 +8,5 @@ parent_title: Signals and Systems
 parent_type: CourseSection
 resourcetype: Document
 title: s10_cgs.pdf
-type: OCWFile
 uid: 693c3732-9780-2920-b15f-233de61863f9
 ---

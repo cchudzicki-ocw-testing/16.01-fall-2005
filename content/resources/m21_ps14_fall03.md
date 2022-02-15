@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: m21_ps14_fall03.pdf
-type: OCWFile
 uid: 8447288d-5a53-667f-c0ae-de95a97a0321
 ---

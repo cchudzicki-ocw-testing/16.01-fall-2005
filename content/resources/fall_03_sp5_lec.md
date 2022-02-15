@@ -8,6 +8,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: fall_03_sp5_lec.pdf
-type: OCWFile
 uid: e8a7bede-b894-48ef-3840-ca0aa8818664
 ---

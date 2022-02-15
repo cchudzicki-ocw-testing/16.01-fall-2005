@@ -8,6 +8,5 @@ parent_title: Calendar
 parent_type: CourseSection
 resourcetype: Document
 title: Unified_Schedule_F03.pdf
-type: OCWFile
 uid: 9d9fe1dd-2797-2a97-1383-984e8f5c2036
 ---

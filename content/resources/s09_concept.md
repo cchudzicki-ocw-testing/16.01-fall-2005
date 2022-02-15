@@ -9,6 +9,5 @@ parent_title: Signals and Systems
 parent_type: CourseSection
 resourcetype: Document
 title: s09_concept.pdf
-type: OCWFile
 uid: 1aa186f8-5dae-cc57-7ada-e3cca89ca07c
 ---

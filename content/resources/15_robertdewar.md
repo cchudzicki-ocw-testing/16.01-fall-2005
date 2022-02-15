@@ -10,6 +10,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 15_robertdewar.pdf
-type: OCWFile
 uid: 6b7aae7d-c07d-c4c4-a512-7be8483ecfc9
 ---

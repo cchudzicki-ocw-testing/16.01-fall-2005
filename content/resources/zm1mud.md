@@ -8,6 +8,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: zm1mud.pdf
-type: OCWFile
 uid: 6855ff87-9dff-a004-cab1-c4fbb2876104
 ---

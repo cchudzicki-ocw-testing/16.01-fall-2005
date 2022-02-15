@@ -9,6 +9,5 @@ parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Document
 title: u2_mud.pdf
-type: OCWFile
 uid: 4fd8e983-44e9-ee14-70d8-35ee55d39515
 ---

@@ -9,6 +9,5 @@ parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Document
 title: spl1.pdf
-type: OCWFile
 uid: 861a6a9d-96e0-0c43-c097-0213d42e3edf
 ---

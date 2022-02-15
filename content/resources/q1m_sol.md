@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: q1m_sol.pdf
-type: OCWFile
 uid: 39c9ad4e-63ab-50bd-5fac-d66240fff4a9
 ---

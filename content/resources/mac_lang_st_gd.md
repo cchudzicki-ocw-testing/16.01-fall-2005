@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: mac_lang_st_gd.pdf
-type: OCWFile
 uid: 66bafee6-f777-84b3-22df-c8351976f14f
 ---

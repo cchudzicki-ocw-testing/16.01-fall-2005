@@ -9,6 +9,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: PROPULSION_lo.pdf
-type: OCWFile
 uid: 074acec5-17d2-ba39-2fa9-65b4bb34eb49
 ---

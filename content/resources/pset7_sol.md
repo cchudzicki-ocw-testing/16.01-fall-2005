@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: pset7_sol.pdf
-type: OCWFile
 uid: a71c0252-b684-80e8-abb9-55cd8c3cd940
 ---

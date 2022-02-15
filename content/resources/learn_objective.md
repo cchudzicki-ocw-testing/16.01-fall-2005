@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: learn_objective.pdf
-type: OCWFile
 uid: 138b7c9a-3040-721a-72be-dab43a4fac28
 ---

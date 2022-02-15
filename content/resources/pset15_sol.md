@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: pset15_sol.pdf
-type: OCWFile
 uid: 47dfad26-1dbf-2101-a5b1-f316f95c8ffa
 ---

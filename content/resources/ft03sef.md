@@ -8,6 +8,5 @@ parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
 resourcetype: Document
 title: FT03SEF.pdf
-type: OCWFile
 uid: acfe5491-daff-2e87-605f-f015b30a4fcd
 ---

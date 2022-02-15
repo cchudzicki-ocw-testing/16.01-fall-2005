@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Other
 title: gnat_315p_nt.exe
-type: OCWFile
 uid: 4cefff50-84bc-c9d8-3880-bcef5eb14130
 ---

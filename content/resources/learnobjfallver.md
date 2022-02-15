@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: learnobjfallver.pdf
-type: OCWFile
 uid: e2055512-8399-efc0-7d6b-0a267bead555
 ---

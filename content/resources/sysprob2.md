@@ -8,6 +8,5 @@ parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Other
 title: sysprob2.xls
-type: OCWFile
 uid: 634f6a3b-158d-3d99-1055-4035eee4d034
 ---

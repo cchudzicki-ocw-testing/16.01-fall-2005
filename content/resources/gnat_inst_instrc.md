@@ -11,6 +11,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: gnat_inst_instrc.pdf
-type: OCWFile
 uid: 8c721b59-1e17-f836-8d6a-2a25f5bb5473
 ---

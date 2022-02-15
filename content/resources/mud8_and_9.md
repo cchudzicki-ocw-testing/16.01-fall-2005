@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: mud8_and_9.pdf
-type: OCWFile
 uid: 21d4e34e-1dd7-bf6d-61c7-2dc39c771f9a
 ---

@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 5recitation.pdf
-type: OCWFile
 uid: 34c13c08-f275-c54d-e644-7040ac5b2f35
 ---

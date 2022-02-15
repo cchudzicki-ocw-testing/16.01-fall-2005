@@ -9,6 +9,5 @@ parent_title: Signals and Systems
 parent_type: CourseSection
 resourcetype: Document
 title: learningobject.pdf
-type: OCWFile
 uid: b0ee1a21-e5cb-c1b4-8fa7-eba042817874
 ---

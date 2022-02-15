@@ -12,6 +12,5 @@ parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
 resourcetype: Image
 title: mudart2.jpg
-type: OCWImage
 uid: 1994a29a-19b5-f548-b6c2-ff6070107a93
 ---

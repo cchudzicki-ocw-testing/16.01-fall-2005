@@ -8,6 +8,5 @@ parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
 resourcetype: Document
 title: PropQuiz2004solnsa.pdf
-type: OCWFile
 uid: 56af7988-e969-ea2c-13e5-15d1083d0c97
 ---

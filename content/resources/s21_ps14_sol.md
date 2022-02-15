@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: s21_ps14_sol.pdf
-type: OCWFile
 uid: 304e74d7-98da-fc92-7333-74a5fb832161
 ---

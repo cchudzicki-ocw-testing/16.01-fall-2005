@@ -8,6 +8,5 @@ parent_title: Signals and Systems
 parent_type: CourseSection
 resourcetype: Document
 title: objectives.pdf
-type: OCWFile
 uid: 7388aded-ca07-885c-4cc2-bfb6b98338de
 ---

@@ -9,6 +9,5 @@ parent_title: Fluid Mechanics
 parent_type: CourseSection
 resourcetype: Document
 title: learningobjectives.pdf
-type: OCWFile
 uid: f33a110e-fab5-e96d-d282-8eae5d62289c
 ---

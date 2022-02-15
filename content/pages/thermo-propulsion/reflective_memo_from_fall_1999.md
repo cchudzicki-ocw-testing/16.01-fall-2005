@@ -5,7 +5,6 @@ parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
 parent_uid: 05b2ba63-43e4-3028-bad4-cdf50e0b363a
 title: Reflective Memo from Fall 1999
-type: CourseSection
 uid: e6ee1b83-843e-1b23-ec41-fdacb7e3416a
 ---
 

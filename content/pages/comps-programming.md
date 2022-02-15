@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Computers and Programming
-type: CourseSection
 uid: 34c4c991-4bb5-d251-50ee-34713d7b7e3e
 ---
 

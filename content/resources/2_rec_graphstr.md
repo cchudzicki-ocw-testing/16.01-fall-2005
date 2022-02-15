@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 2_rec_graphstr.pdf
-type: OCWFile
 uid: 1dd1d28e-c246-6a4b-6fa9-04db959190a1
 ---

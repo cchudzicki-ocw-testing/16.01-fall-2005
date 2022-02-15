@@ -9,6 +9,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: sp4_asgnt_notes.pdf
-type: OCWFile
 uid: 5f4354a3-d2f6-a552-115c-0c35d1cb5ed5
 ---

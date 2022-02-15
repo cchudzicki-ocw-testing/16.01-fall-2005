@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: pset13_sol.pdf
-type: OCWFile
 uid: 9832b937-9f4f-128b-1e3f-3cda0f4ad4cb
 ---

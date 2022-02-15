@@ -10,6 +10,5 @@ parent_title: Calendar
 parent_type: CourseSection
 resourcetype: Document
 title: calendar_spr2006.pdf
-type: OCWFile
 uid: 0eb7e45d-8311-37b6-644d-a1e2f1a5c72e
 ---

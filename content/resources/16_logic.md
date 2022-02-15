@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 16_logic.pdf
-type: OCWFile
 uid: 2c2b8be1-3dbc-bc97-29e0-c30e168ef2b2
 ---

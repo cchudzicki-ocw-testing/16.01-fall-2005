@@ -11,6 +11,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: styleguideuerev2.pdf
-type: OCWFile
 uid: 9b70013b-752d-0b3b-82f1-18de640f646b
 ---

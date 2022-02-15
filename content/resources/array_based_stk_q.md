@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: array_based_stk_q.pdf
-type: OCWFile
 uid: fb77c700-5d8f-e64c-b081-839ad3c550b1
 ---

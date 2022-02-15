@@ -8,6 +8,5 @@ parent_title: Signals and Systems
 parent_type: CourseSection
 resourcetype: Document
 title: sp_S14_mud.pdf
-type: OCWFile
 uid: d05c5aef-d8a1-97fb-7f91-0d258c038ca1
 ---

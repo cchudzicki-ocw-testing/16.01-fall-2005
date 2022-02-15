@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 16_record_files.pdf
-type: OCWFile
 uid: 0bcb4b9a-ee89-95ed-b971-8543aa5e9e98
 ---

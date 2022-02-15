@@ -8,6 +8,5 @@ parent_title: Signals and Systems
 parent_type: CourseSection
 resourcetype: Document
 title: problem_s10.pdf
-type: OCWFile
 uid: fb16b3e5-d747-3b02-78fd-1f878a2e4c1a
 ---

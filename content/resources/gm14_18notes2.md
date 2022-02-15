@@ -8,6 +8,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: gm14_18notes2.pdf
-type: OCWFile
 uid: a6dca6c1-64b1-701c-7e66-6c3964a9c6c4
 ---

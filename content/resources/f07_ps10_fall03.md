@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: f07_ps10_fall03.pdf
-type: OCWFile
 uid: 201993fe-cef7-a9d3-946e-2b0d15ef212d
 ---

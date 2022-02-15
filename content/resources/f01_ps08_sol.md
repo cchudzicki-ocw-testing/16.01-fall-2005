@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: f01_ps08_sol.pdf
-type: OCWFile
 uid: f880d620-d38e-2ae1-dfce-56a1c924b27b
 ---

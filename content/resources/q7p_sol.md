@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: q7p_sol.pdf
-type: OCWFile
 uid: 2c8c3093-c9aa-2d15-8e3b-6c97c1a548c2
 ---

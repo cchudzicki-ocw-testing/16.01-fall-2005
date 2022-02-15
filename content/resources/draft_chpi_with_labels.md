@@ -11,6 +11,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: draft_chpi_with_labels.jpg
-type: OCWImage
 uid: 03cbd5eb-1396-c3cb-e59f-572645bbb6cc
 ---

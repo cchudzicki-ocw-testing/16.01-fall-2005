@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: mud3.pdf
-type: OCWFile
 uid: 228429bf-c13f-d282-7290-29508f9f541f
 ---

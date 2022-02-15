@@ -8,6 +8,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: sp4grading_rubirc.pdf
-type: OCWFile
 uid: 4f3a0736-5b4e-d76d-fe7b-90c486821dc0
 ---

@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 20_proofs.pdf
-type: OCWFile
 uid: 0599163e-36ac-f071-5fa1-323a0e78fe3b
 ---

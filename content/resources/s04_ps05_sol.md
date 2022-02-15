@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: s04_ps05_sol.pdf
-type: OCWFile
 uid: 78b1ab85-eb79-371a-92c4-d2914904efe1
 ---

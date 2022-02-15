@@ -9,6 +9,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: sp2_part1.pdf
-type: OCWFile
 uid: c3d2137a-3a6c-aa1c-8fa5-2a52a4856824
 ---

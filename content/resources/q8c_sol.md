@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Q8C_sol.pdf
-type: OCWFile
 uid: 0ab75a81-7ac8-715a-c7aa-59469dbedad8
 ---

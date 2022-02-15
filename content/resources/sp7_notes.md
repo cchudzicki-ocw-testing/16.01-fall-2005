@@ -8,6 +8,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: sp7_notes.pdf
-type: OCWFile
 uid: 122da0ff-dc4a-15d9-5868-5358dde118f3
 ---

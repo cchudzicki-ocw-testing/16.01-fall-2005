@@ -9,6 +9,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: ss_lo_s04.pdf
-type: OCWFile
 uid: 8f4bfb0d-0f66-c0ce-dd7f-bba650ce4257
 ---

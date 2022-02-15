@@ -9,6 +9,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: mudzm16.pdf
-type: OCWFile
 uid: d3237b09-12e8-e4a4-e3c7-fee3065ba6e5
 ---

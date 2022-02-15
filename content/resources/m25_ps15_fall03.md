@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: m25_ps15_fall03.pdf
-type: OCWFile
 uid: 0380cebc-f212-e7f6-5ff0-ca44aa07e738
 ---

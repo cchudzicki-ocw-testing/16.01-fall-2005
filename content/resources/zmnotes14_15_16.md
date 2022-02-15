@@ -8,6 +8,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: zmnotes14_15_16.pdf
-type: OCWFile
 uid: 88137d7c-8cdd-0f24-5c9e-e63fe5481c73
 ---

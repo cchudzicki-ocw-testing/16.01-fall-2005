@@ -8,6 +8,5 @@ parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Document
 title: guidelines.pdf
-type: OCWFile
 uid: 7b1fb14b-0bb9-c2ad-7721-f0107993ed88
 ---

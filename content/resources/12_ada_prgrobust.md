@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 12_ada_prgrobust.pdf
-type: OCWFile
 uid: 4ee1477a-d2eb-8a69-5169-e0e03c1d51bb
 ---

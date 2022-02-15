@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 4_stacks_queue.pdf
-type: OCWFile
 uid: 5a56b6e4-940e-c7cb-b521-b0393e4a9eb1
 ---

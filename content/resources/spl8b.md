@@ -8,6 +8,5 @@ parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Document
 title: spl8b.pdf
-type: OCWFile
 uid: 919cfa4e-bb7c-baf4-6679-f0b13be6d222
 ---

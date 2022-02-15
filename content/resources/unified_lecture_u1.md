@@ -9,6 +9,5 @@ parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Document
 title: unified_lecture_u1.pdf
-type: OCWFile
 uid: 71194e1a-cb08-1bf6-7cd0-13b4a9271b16
 ---

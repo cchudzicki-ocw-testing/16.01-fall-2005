@@ -9,6 +9,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: learning_objectives_fall_version.pdf
-type: OCWFile
 uid: 46fe6205-2202-49a5-2442-0e57709aab87
 ---

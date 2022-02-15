@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: learnobjctsprver.pdf
-type: OCWFile
 uid: e3fe5ccf-2694-6121-6cc2-4c79eb3b8a90
 ---

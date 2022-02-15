@@ -8,6 +8,5 @@ parent_title: Fluid Mechanics
 parent_type: CourseSection
 resourcetype: Document
 title: f07mathgrad_fall.pdf
-type: OCWFile
 uid: 29fa0771-085a-3889-f5a7-0145a1cc53f1
 ---

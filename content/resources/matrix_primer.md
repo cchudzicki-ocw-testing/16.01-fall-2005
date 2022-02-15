@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: matrix_primer.pdf
-type: OCWFile
 uid: 6b6b0cfa-844d-47b2-0f91-a8a58ef91eaa
 ---

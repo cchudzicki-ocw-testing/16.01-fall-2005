@@ -8,6 +8,5 @@ parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Document
 title: spl9a.pdf
-type: OCWFile
 uid: 9c34e990-80c0-0a98-595e-13a038053521
 ---

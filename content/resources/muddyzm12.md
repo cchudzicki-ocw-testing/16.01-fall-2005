@@ -9,6 +9,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: muddyzm12.pdf
-type: OCWFile
 uid: ce6cb5af-0ebd-eb00-58e8-f7a78262770c
 ---

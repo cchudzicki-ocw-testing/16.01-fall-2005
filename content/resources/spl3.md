@@ -9,6 +9,5 @@ parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Document
 title: spl3.pdf
-type: OCWFile
 uid: 369e18b2-5007-e37a-6e5e-ace7c0a0745e
 ---

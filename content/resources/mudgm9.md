@@ -10,6 +10,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: mudgm9.pdf
-type: OCWFile
 uid: a088db55-39af-4f5d-70a6-b51e6aee322d
 ---

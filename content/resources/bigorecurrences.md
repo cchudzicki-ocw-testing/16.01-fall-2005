@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: bigorecurrences.pdf
-type: OCWFile
 uid: 9ea490a9-e30d-004f-9a24-f4151b05749b
 ---

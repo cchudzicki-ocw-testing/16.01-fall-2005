@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: m13_ps04_sol.pdf
-type: OCWFile
 uid: 1c954ba4-9f1a-d1fe-bdf4-1726f2a64325
 ---

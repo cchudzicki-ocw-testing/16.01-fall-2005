@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 11_sort_srch_alg.pdf
-type: OCWFile
 uid: 3ad763b7-b19e-1dba-b8a0-2122926b2d81
 ---

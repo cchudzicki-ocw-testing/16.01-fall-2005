@@ -9,6 +9,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: sp4_rc_design.pdf
-type: OCWFile
 uid: cadbb3d1-7135-9f26-8d67-eda9ee630146
 ---

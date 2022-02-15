@@ -9,6 +9,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: objectives.pdf
-type: OCWFile
 uid: 731cc2de-043a-89b6-798f-94a2b5a952c3
 ---

@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: m16_ps05_sol.pdf
-type: OCWFile
 uid: 43abd760-c788-29ef-81c3-e1e33a765984
 ---

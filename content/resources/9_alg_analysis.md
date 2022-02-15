@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 9_alg_analysis.pdf
-type: OCWFile
 uid: 0f71d8d3-5943-aa07-2363-e0c3185fbca7
 ---

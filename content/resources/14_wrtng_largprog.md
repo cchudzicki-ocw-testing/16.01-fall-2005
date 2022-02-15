@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 14_wrtng_largprog.pdf
-type: OCWFile
 uid: 8441f8a6-5912-7df8-9402-45dcb3b65bc4
 ---

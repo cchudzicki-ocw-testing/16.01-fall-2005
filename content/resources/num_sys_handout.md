@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: num_sys_handout.pdf
-type: OCWFile
 uid: b8fd0a19-2a3f-5309-3634-027db69c310b
 ---

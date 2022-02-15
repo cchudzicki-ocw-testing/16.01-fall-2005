@@ -8,6 +8,5 @@ parent_title: Unified Concepts
 parent_type: CourseSection
 resourcetype: Document
 title: u01_ps01_sol.pdf
-type: OCWFile
 uid: 8cb3fca9-f973-18db-6741-4cba02360ba5
 ---

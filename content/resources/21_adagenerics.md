@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 21_adagenerics.pdf
-type: OCWFile
 uid: a9780d80-2a41-c604-8b2c-5a3b177c80b5
 ---

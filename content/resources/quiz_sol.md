@@ -8,6 +8,5 @@ parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
 resourcetype: Document
 title: quiz_sol.pdf
-type: OCWFile
 uid: a5058172-10d2-eae2-eb78-998ad5609da1
 ---

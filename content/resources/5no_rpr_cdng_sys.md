@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 5no_rpr_cdng_sys.pdf
-type: OCWFile
 uid: 747a087a-4c68-3247-e0a7-5cf2841b3b65
 ---

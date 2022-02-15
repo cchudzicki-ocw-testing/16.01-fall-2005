@@ -8,6 +8,5 @@ parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
 resourcetype: Document
 title: CFM_Engine.pdf
-type: OCWFile
 uid: 8f579f0c-fbf1-7297-dda8-bb76c850a93f
 ---

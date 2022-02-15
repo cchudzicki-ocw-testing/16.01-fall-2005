@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 19_evenmorelogic.pdf
-type: OCWFile
 uid: 1187ce38-e8cc-ccd5-d267-9a3b604f3b59
 ---

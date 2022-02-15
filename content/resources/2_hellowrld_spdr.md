@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 2_hellowrld_spdr.pdf
-type: OCWFile
 uid: 630e675a-2f52-f1da-fd92-5d33134248a3
 ---

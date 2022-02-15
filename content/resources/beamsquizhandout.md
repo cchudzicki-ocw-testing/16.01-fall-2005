@@ -10,6 +10,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: beamsquizhandout.pdf
-type: OCWFile
 uid: 26a4c795-200c-2760-9441-1ecf58e297d3
 ---

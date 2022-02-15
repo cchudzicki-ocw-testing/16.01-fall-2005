@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: f06_ps02_spring04.pdf
-type: OCWFile
 uid: 3f74e329-1d44-43af-7d65-abe15e11ed68
 ---

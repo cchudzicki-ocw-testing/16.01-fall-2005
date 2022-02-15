@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 13recurenc_equat.pdf
-type: OCWFile
 uid: 8ff1cef6-f24e-c6ed-3564-ec47db149ac0
 ---

@@ -8,6 +8,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: sp6_rubric.pdf
-type: OCWFile
 uid: 9bcee725-9095-679b-6871-d2579aaca085
 ---

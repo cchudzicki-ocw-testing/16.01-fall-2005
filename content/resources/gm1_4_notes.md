@@ -8,6 +8,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: gm1_4_notes.pdf
-type: OCWFile
 uid: b05b9c57-99b4-32cc-8c3a-3503da5656ce
 ---

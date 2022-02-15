@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 13_testing.pdf
-type: OCWFile
 uid: 37054a02-2d9d-2bae-5462-e65bd2c76f3b
 ---

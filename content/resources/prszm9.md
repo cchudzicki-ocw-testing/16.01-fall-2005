@@ -9,6 +9,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: prszm9.pdf
-type: OCWFile
 uid: 31d802f2-a496-73d6-41e6-1a7413df59bc
 ---

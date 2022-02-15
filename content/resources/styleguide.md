@@ -8,6 +8,5 @@ parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Document
 title: styleguide.pdf
-type: OCWFile
 uid: 763c8a71-f9bf-a199-d7a1-6c9fdc21808b
 ---

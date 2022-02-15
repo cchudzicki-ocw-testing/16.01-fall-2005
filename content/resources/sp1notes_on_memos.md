@@ -9,6 +9,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: sp1notes_on_memos.pdf
-type: OCWFile
 uid: 242a1abd-fbc2-4fd0-55ec-7d6ecd183bb3
 ---

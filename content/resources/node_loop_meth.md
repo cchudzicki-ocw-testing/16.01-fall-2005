@@ -9,6 +9,5 @@ parent_title: Signals and Systems
 parent_type: CourseSection
 resourcetype: Document
 title: node_loop_meth.pdf
-type: OCWFile
 uid: 188228da-c72f-55ee-8e37-5f5f04164e05
 ---

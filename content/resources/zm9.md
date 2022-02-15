@@ -8,6 +8,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: zm9.pdf
-type: OCWFile
 uid: deda963f-e45a-0357-bdc9-1aa3fd73d6e6
 ---

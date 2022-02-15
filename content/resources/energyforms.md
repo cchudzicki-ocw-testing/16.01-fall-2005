@@ -12,6 +12,5 @@ parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
 resourcetype: Image
 title: energyforms.jpg
-type: OCWImage
 uid: da415920-d119-583a-7c8b-6a2bed114894
 ---

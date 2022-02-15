@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: thermo2003quizsol.pdf
-type: OCWFile
 uid: b552d41b-cb16-b702-f411-41fd71b0f50d
 ---

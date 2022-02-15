@@ -9,6 +9,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: prsm13.pdf
-type: OCWFile
 uid: 1bd7bbc1-1495-ed50-27f2-906fbf9f851c
 ---

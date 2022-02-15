@@ -8,6 +8,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: sp9report2grad.pdf
-type: OCWFile
 uid: 9b220a8a-0bb0-73cd-6439-9d86abc185bd
 ---

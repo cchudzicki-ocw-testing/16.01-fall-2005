@@ -9,6 +9,5 @@ parent_title: Signals and Systems
 parent_type: CourseSection
 resourcetype: Document
 title: s13_cqs.pdf
-type: OCWFile
 uid: b6a42c29-0bdd-a20b-9612-b77cd277006a
 ---

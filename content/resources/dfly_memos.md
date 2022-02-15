@@ -9,6 +9,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: dfly_memos.pdf
-type: OCWFile
 uid: 76eb3605-14e7-29fc-af04-32cb883f9d3e
 ---

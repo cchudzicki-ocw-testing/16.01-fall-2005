@@ -8,6 +8,5 @@ parent_title: Fluid Mechanics
 parent_type: CourseSection
 resourcetype: Document
 title: f12_mud.pdf
-type: OCWFile
 uid: e0d3a062-be76-3588-7073-4b683c189b86
 ---

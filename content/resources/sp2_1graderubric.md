@@ -8,6 +8,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: sp2_1graderubric.pdf
-type: OCWFile
 uid: 26e64615-9124-2206-7446-e9c195618208
 ---

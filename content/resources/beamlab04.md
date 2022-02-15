@@ -12,6 +12,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: beamlab04.pdf
-type: OCWFile
 uid: dc54588b-34be-6c3b-7cce-7d8cee75df5f
 ---

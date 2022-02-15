@@ -8,6 +8,5 @@ parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
 resourcetype: Document
 title: StudentSelfAssess.pdf
-type: OCWFile
 uid: 2b4ff330-96c3-36cb-dd0a-9e7cfec40d4f
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: spring04_pset2.pdf
-type: OCWFile
 uid: 2a365179-08a6-2e87-e4a9-605ffffc2b1c
 ---

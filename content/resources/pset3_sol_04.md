@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: pset3_sol_04.pdf
-type: OCWFile
 uid: ea26368b-3b3f-b59a-a1ba-6f264869cf73
 ---

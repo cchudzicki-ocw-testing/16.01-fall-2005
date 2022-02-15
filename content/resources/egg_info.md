@@ -9,6 +9,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: egg_info.pdf
-type: OCWFile
 uid: 04acb69e-a0a0-9ae6-76dc-fe24b9d16b50
 ---

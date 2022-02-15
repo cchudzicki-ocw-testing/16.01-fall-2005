@@ -8,6 +8,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: redefining_eng.pdf
-type: OCWFile
 uid: ec93bf02-7d4e-7502-1b09-d35ff8a4922c
 ---

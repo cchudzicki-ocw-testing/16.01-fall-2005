@@ -10,6 +10,5 @@ parent_title: Calendar
 parent_type: CourseSection
 resourcetype: Document
 title: calendar_fal2005.pdf
-type: OCWFile
 uid: 3e0dedf9-d04e-28e3-f6c4-a5146eb8102f
 ---

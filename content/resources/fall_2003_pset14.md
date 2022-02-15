@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: fall_2003_pset14.pdf
-type: OCWFile
 uid: 873a5137-3050-a15d-f290-c95b52be86a8
 ---

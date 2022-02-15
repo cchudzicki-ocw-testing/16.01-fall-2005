@@ -8,6 +8,5 @@ parent_title: Fluid Mechanics
 parent_type: CourseSection
 resourcetype: Document
 title: xfoil_inst.pdf
-type: OCWFile
 uid: 92711fd7-4589-bf6a-d83e-d8a4d2c3183a
 ---

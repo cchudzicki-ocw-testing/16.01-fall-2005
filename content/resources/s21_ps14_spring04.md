@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: s21_ps14_spring04.pdf
-type: OCWFile
 uid: 3409bca9-ad07-9886-e97e-ba04d4462085
 ---

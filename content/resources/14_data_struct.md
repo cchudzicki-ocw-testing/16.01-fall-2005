@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 14_data_struct.pdf
-type: OCWFile
 uid: af5c025e-8c7a-d421-83a1-475dda55b019
 ---

@@ -8,6 +8,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: gm12_13notes.pdf
-type: OCWFile
 uid: 3ae07fde-c6c3-066a-886e-16f3d45534cf
 ---

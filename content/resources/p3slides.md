@@ -9,6 +9,5 @@ parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
 resourcetype: Document
 title: P3slides.pdf
-type: OCWFile
 uid: 100f0263-37ca-f8f3-158e-8caf456cc5ed
 ---

@@ -9,6 +9,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: gm19_20notes2.pdf
-type: OCWFile
 uid: f46ab73b-31f6-a462-2ba6-2ab4e5366e95
 ---

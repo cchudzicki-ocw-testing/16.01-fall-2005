@@ -8,6 +8,5 @@ parent_title: Fluid Mechanics
 parent_type: CourseSection
 resourcetype: Document
 title: poll.pdf
-type: OCWFile
 uid: 02b574b3-83ea-7244-0163-21c567bae597
 ---

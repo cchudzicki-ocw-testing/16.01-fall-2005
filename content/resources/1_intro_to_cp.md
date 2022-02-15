@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 1_intro_to_cp.pdf
-type: OCWFile
 uid: f22f92f6-bfb3-91af-f77d-ed0dcab89067
 ---

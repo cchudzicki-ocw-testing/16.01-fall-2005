@@ -8,6 +8,5 @@ parent_title: Fluid Mechanics
 parent_type: CourseSection
 resourcetype: Document
 title: f09_sp.pdf
-type: OCWFile
 uid: d77d7c79-3e7a-22e2-0b53-05547196adbf
 ---

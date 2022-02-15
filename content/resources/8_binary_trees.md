@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 8_binary_trees.pdf
-type: OCWFile
 uid: 23510d24-455f-42f4-ebf1-c893f2a1b56b
 ---

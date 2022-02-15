@@ -8,6 +8,5 @@ parent_title: Fluid Mechanics
 parent_type: CourseSection
 resourcetype: Document
 title: f10drag_sp.pdf
-type: OCWFile
 uid: 82ead7bc-6972-d585-3b81-a6686156f474
 ---

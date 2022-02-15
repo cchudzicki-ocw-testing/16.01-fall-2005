@@ -9,6 +9,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: spring2004_sp6.pdf
-type: OCWFile
 uid: eda71b26-ba82-d349-f817-7e53fc4a6bf4
 ---

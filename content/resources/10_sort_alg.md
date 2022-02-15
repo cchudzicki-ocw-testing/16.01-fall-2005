@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 10_sort_alg.pdf
-type: OCWFile
 uid: 2ac6f6a3-de8b-29fe-563b-9e47afa3d995
 ---

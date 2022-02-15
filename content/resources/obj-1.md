@@ -9,6 +9,5 @@ parent_title: Fluid Mechanics
 parent_type: CourseSection
 resourcetype: Document
 title: obj.pdf
-type: OCWFile
 uid: 24577fa8-7b5a-a5b9-99cb-e491bddd59cb
 ---

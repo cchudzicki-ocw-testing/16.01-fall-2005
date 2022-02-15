@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 7_assembly.pdf
-type: OCWFile
 uid: bad38792-bf94-5c7b-2dd0-592fd80e285a
 ---

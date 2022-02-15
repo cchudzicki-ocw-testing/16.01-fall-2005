@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 0_unified_tut_jk.pdf
-type: OCWFile
 uid: 95a3c6e2-84f6-cff6-fbbc-bfe0270d12b1
 ---

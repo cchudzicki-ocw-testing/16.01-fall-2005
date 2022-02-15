@@ -8,6 +8,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: zm2.pdf
-type: OCWFile
 uid: bf9d90c6-bff1-31ec-3790-206cbe3594b2
 ---

@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: fall_2003_quiz_5f.pdf
-type: OCWFile
 uid: 405c75ed-96e0-4e68-72a0-22c79d5085a2
 ---

@@ -8,6 +8,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: sp1_lecture.pdf
-type: OCWFile
 uid: 60edf693-2d81-3d4c-60dc-59c1028673c4
 ---

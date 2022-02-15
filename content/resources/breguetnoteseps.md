@@ -8,6 +8,5 @@ parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Document
 title: breguetnoteseps.pdf
-type: OCWFile
 uid: 92ab2685-b677-3e76-79e7-beac1db1b763
 ---

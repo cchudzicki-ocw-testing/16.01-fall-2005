@@ -8,6 +8,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: springspschedule.pdf
-type: OCWFile
 uid: e60bc6be-6aa6-73f0-4ad0-c4d55357fdb7
 ---

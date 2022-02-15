@@ -8,6 +8,5 @@ parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Document
 title: spring_spl1.pdf
-type: OCWFile
 uid: 880678ca-3fb1-307a-a73d-e7a6d073d730
 ---

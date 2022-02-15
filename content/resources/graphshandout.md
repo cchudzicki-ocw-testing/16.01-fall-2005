@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: graphshandout.pdf
-type: OCWFile
 uid: a86346b6-19ae-7fc4-82e7-919bc7a03169
 ---

@@ -8,6 +8,5 @@ parent_title: Signals and Systems
 parent_type: CourseSection
 resourcetype: Document
 title: concept.pdf
-type: OCWFile
 uid: 5626ebc4-3835-4ac1-7762-67caca4af2cd
 ---

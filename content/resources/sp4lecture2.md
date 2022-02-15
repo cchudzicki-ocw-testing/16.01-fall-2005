@@ -9,6 +9,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: sp4lecture2.pdf
-type: OCWFile
 uid: 30484fa7-4149-f87b-2e04-a59602056a90
 ---

@@ -8,6 +8,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: zm1notes_sps.pdf
-type: OCWFile
 uid: f990cd7e-7dc9-6be6-2570-20463f6dc377
 ---

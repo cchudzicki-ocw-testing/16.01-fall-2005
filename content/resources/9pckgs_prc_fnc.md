@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 9pckgs_prc_fnc.pdf
-type: OCWFile
 uid: 610f7cc2-84e0-4e31-708f-e871054e4420
 ---

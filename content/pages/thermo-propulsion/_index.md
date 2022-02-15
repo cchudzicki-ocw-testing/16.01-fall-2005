@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Thermodynamics and Propulsion
-type: CourseSection
 uid: 05b2ba63-43e4-3028-bad4-cdf50e0b363a
 ---
 

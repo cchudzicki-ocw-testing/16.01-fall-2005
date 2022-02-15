@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 10_cndtnl_struct.pdf
-type: OCWFile
 uid: 4963980a-e433-e4f6-4c30-a22aea54004a
 ---

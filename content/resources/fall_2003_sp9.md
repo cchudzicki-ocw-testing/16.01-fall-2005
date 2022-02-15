@@ -8,6 +8,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: fall_2003_sp9.pdf
-type: OCWFile
 uid: 833de649-0375-d5a2-f619-65893f040458
 ---

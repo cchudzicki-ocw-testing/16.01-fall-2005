@@ -8,6 +8,5 @@ parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
 resourcetype: Document
 title: thermo2003quizsol.pdf
-type: OCWFile
 uid: b93dde0a-1eb5-9e39-cd14-63c7df97023a
 ---

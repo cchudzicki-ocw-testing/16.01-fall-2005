@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Systems/Labs 06
-type: CourseSection
 uid: 1f88d71a-9054-37a1-8163-daf60a1dd696
 ---
 

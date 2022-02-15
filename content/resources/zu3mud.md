@@ -9,6 +9,5 @@ parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Document
 title: zu3mud.pdf
-type: OCWFile
 uid: 663d2779-ce70-738a-bd09-baeb50ece46e
 ---

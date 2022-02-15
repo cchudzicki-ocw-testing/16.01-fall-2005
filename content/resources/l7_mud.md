@@ -8,6 +8,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: l7_mud.pdf
-type: OCWFile
 uid: ed6a980b-f1b2-5bf9-314f-090ccb0c7536
 ---

@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: machne_lang_styl.pdf
-type: OCWFile
 uid: 87885aa1-2753-853b-4f25-4fc24a35e504
 ---

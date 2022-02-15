@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: s17_ps13_sol.pdf
-type: OCWFile
 uid: 3cca8795-3b64-e65b-a383-b8f7ab28b0df
 ---

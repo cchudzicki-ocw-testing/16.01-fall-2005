@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: adagide_instrctn.pdf
-type: OCWFile
 uid: 310f3cca-615e-cfe2-007d-40c425e90b07
 ---

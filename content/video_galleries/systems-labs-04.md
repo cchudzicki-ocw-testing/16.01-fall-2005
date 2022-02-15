@@ -3,7 +3,6 @@ content_type: video_gallery
 is_media_gallery: true
 learning_resource_types: []
 title: Systems/Labs 04
-type: CourseSection
 uid: 87e8f47c-351c-ccd4-50e9-b5e03c5bbee2
 videos:
   content:

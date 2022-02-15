@@ -8,6 +8,5 @@ parent_title: Fluid Mechanics
 parent_type: CourseSection
 resourcetype: Document
 title: f19_cyl_coord.pdf
-type: OCWFile
 uid: 6bef9d49-8fa2-f716-28df-e44e7281a550
 ---

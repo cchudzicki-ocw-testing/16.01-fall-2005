@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: m18_ps13_fall03.pdf
-type: OCWFile
 uid: abe20323-078b-e3be-cc04-8537e78b422c
 ---

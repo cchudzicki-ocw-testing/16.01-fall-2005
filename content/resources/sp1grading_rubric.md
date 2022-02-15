@@ -8,6 +8,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: sp1grading_rubric.pdf
-type: OCWFile
 uid: 0b67a806-a06b-45db-0f43-9a692a11985a
 ---

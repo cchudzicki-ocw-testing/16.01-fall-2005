@@ -12,6 +12,5 @@ parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
 resourcetype: Image
 title: slide1.jpeg
-type: OCWImage
 uid: 64759210-345a-261e-68d2-60cd78b6acc7
 ---

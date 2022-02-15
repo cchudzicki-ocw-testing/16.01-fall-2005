@@ -9,6 +9,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: mudgm19.pdf
-type: OCWFile
 uid: 213e319c-9c48-5c5f-4507-403365302316
 ---

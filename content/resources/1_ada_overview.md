@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 1_ada_overview.pdf
-type: OCWFile
 uid: a4f41805-0841-f274-4396-97ca41df6b45
 ---

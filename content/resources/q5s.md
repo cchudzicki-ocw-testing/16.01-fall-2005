@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: q5s.pdf
-type: OCWFile
 uid: 99fddaf3-0e81-f495-e844-3e7235f14056
 ---

@@ -8,6 +8,5 @@ parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document
 title: 3rec_alg_ana.pdf
-type: OCWFile
 uid: 126fc643-6f1e-e6d2-26ad-43760555fe67
 ---

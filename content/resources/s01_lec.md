@@ -8,6 +8,5 @@ parent_title: Signals and Systems
 parent_type: CourseSection
 resourcetype: Document
 title: s01_lec.pdf
-type: OCWFile
 uid: 089307a8-1512-e015-ab6c-afe2e0a12bcd
 ---

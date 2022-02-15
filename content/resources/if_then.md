@@ -8,6 +8,5 @@ parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
 title: if_then.pdf
-type: OCWFile
 uid: 031e11c3-d236-0d83-bb0e-173457069b2b
 ---

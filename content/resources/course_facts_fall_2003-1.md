@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: course_facts_fall_2003.pdf
-type: OCWFile
 uid: 07bc3ad3-f1e3-cf06-d789-bb9b06e9d5e3
 ---

@@ -8,6 +8,5 @@ parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document
 title: sample_frdiarrc.pdf
-type: OCWFile
 uid: 4db43a3f-a76b-a8ad-1ef8-4d550b629095
 ---
