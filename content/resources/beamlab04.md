@@ -8,6 +8,7 @@ description: This lab is designed to provide you with an opportunity to verify t
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/dc54588b34be6c3b7cce7d8cee75df5f_beamlab04.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document

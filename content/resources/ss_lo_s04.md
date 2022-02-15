@@ -5,6 +5,7 @@ description: This handout contains the learning objectives and the measurable ou
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8f4bfb0d0f66c0cedd7fbba650ce4257_ss_lo_s04.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document

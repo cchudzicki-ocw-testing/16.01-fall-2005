@@ -4,6 +4,7 @@ description: Handwritten lecture notes on State Equations for Circuits with Sour
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d8c643ea14480f8cfbc707a8081b5d0b_s14_lec.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection
 resourcetype: Document

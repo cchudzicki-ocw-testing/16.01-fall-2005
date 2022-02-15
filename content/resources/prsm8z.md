@@ -5,6 +5,7 @@ description: This resource contains concept questions and answers based on displ
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7448cfb97964eb012c639ed0e1ca9099_prsm8z.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document

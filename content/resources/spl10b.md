@@ -5,6 +5,7 @@ description: 'This file contains the notes for the topic: Area and Bending Inert
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/21cb09c67195d8b306de55214c2b2f87_spl10b.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Document

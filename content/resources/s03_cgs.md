@@ -5,6 +5,7 @@ description: This file contains notes for Approximation by Pulses, general respo
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1b8cbb3cdc03d54ddf5d79d414b195ed_s03_cgs.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection
 resourcetype: Document

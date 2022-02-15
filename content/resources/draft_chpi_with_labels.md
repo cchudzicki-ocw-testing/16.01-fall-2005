@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: draft_chpi_with_labels.jpg
 uid: 03cbd5eb-1396-c3cb-e59f-572645bbb6cc

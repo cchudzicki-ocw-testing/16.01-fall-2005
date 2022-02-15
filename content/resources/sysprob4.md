@@ -5,6 +5,7 @@ description: This file contains the lab exercise for Water Bottle Rocket Build a
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/44916949a807c3a6d4eefef2d490679b_sysprob4.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Document

@@ -5,6 +5,7 @@ description: This resource provides information on the topics of Prandtl-Meyer W
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9066d7b1228c1784b4ab216b4375652c_f18_sp.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Fluid Mechanics
 parent_type: CourseSection
 resourcetype: Document

@@ -4,6 +4,7 @@ description: Lecture 1 (2004) presentation.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a4f418050841f274439697ca41df6b45_1_ada_overview.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document

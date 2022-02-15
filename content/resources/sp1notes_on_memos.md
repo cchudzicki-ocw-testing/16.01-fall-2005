@@ -5,6 +5,7 @@ description: This resource contains information on tutorial on the format for wr
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/242a1abdfbc24fd055ec7d6ecd183bb3_sp1notes_on_memos.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Systems/Labs 04
 parent_type: CourseSection
 resourcetype: Document

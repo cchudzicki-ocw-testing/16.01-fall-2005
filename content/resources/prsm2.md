@@ -5,6 +5,7 @@ description: This resource contains concept questions and answers based on shear
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ea85f65850accf0bf9f2a4374bd23e0c_prsm2.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document

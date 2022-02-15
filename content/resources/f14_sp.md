@@ -5,6 +5,7 @@ description: This resource contains information on the topics of Normal Shock Wa
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/45f84d580623b6a895f60195917994eb_f14_sp.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Fluid Mechanics
 parent_type: CourseSection
 resourcetype: Document

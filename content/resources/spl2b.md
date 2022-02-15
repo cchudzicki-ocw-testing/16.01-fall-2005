@@ -5,6 +5,7 @@ description: This file contains notes for flight training, system, buddy box, fl
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/341352ff80088257780a7a20843b66fc_spl2b.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Document

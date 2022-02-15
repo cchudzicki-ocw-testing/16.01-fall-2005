@@ -5,6 +5,7 @@ description: This resource contains information on the topics of 2-D aerodynamic
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/0c99289fc2a88ccdc630c4fd0ee77254_f03_fall.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Fluid Mechanics
 parent_type: CourseSection
 resourcetype: Document

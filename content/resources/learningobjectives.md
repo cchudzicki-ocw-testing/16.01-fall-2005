@@ -5,6 +5,7 @@ description: This resource provides information on the topic of Scope, Learning 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f33a110efab5e96dd2828eae5d62289c_learningobjectives.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Fluid Mechanics
 parent_type: CourseSection
 resourcetype: Document

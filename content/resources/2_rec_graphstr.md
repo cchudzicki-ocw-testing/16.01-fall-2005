@@ -4,6 +4,7 @@ description: Recitation lecture presentation.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1dd1d28ec2466a4b6fa904db959190a1_2_rec_graphstr.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Computers and Programming
 parent_type: CourseSection
 resourcetype: Document

@@ -4,6 +4,7 @@ description: Handwritten lecture notes.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/74b35834dffa7202d05d9f9bf714846b_s04_lec.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection
 resourcetype: Document

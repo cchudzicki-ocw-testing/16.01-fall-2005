@@ -5,6 +5,7 @@ description: This file explains forms of First law of thermodynamics,Expressions
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8dda908d284bcd5e490c8403e641819f_equationcompendium.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
 resourcetype: Document

@@ -4,6 +4,7 @@ description: This file contains the diagrams for Wing Mount Alternatives.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/53d25e39b0df7c1b25ed7b3718bd1691_spl9d.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Systems/Labs 06
 parent_type: CourseSection
 resourcetype: Document

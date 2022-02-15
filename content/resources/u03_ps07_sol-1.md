@@ -4,6 +4,7 @@ description: This file contains the solutions for the questions asked in U3.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b74d645902e5622f60d37dbf58d99094_u03_ps07_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Unified Concepts
 parent_type: CourseSection
 resourcetype: Document

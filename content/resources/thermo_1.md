@@ -5,6 +5,7 @@ description: This handout contains the Learning Objectives and the Measurable Ou
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/732af9f2b524860b7d1c5dc1e75ed0f0_thermo_1.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document

@@ -4,6 +4,7 @@ description: This resource based on study guide and formula table for quiz.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d6610abb79ace81984f041be6249952a_quiz_hdot_m11_14.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Materials/Structures
 parent_type: CourseSection
 resourcetype: Document
