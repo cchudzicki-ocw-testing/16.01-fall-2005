@@ -21,7 +21,7 @@ Schedule
 
 There are no scheduled Unified Concepts sessions during 16.03-04 (the Spring 2006 semester), except for two feedback sessions which occur at the middle and end of the semester. These sessions give the students an opportunity to provide feedback to the instructors about the format, teaching, workload, and other aspects of 16.03-04.
 
-[Table Organization]({{< baseurl >}}/pages/syllabus#Table_organization)
+{{< resource_link c4fd6fd6-1378-ecf4-a56a-b73c6b455e18 "Table Organization" "#Table_organization" >}}
 
 16.01-16.02
 -----------

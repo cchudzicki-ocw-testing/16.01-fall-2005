@@ -21,7 +21,7 @@ Textbooks
 
 Anderson, John D. _Fundamentals of Aerodynamics._ 3rd ed. New York, NY: McGraw-Hill, 2001. ISBN: 0072373350.
 
-[Table Organization]({{< baseurl >}}/pages/syllabus#Table_organization)
+{{< resource_link c4fd6fd6-1378-ecf4-a56a-b73c6b455e18 "Table Organization" "#Table_organization" >}}
 
 16.01-16.02
 -----------

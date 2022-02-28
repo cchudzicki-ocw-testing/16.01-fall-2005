@@ -31,7 +31,7 @@ Oppenheim, Alan, Alan Willsky, and S. Hamid Nawab. _Signals and Systems_. 2nd ed
 
 This book treats both continuous-time and discrete-time signals and systems, whereas this course deals almost exclusively with continuous-time signals. Students may generally ignore sections in the assigned reading on discrete-time systems. However, some of the explanations given in the continuous-time sections are given as analogies to or limits of the discrete-time cases, so students will have some familiarity with the discrete-time notation.
 
-[Table Organization]({{< baseurl >}}/pages/syllabus#Table_organization)
+{{< resource_link c4fd6fd6-1378-ecf4-a56a-b73c6b455e18 "Table Organization" "#Table_organization" >}}
 
 16.01-16.02
 -----------

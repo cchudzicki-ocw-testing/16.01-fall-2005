@@ -25,7 +25,7 @@ Brookshear, J. Glenn. _Computer Science: An Overview._ 7th ed. Reading, MA: Addi
 
 [Additional Resources](#BelowTable)
 
-[Table Organization]({{< baseurl >}}/pages/syllabus#Table_organization)
+{{< resource_link c4fd6fd6-1378-ecf4-a56a-b73c6b455e18 "Table Organization" "#Table_organization" >}}
 
 16.01-16.02
 -----------

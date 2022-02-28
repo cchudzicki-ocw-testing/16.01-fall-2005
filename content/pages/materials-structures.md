@@ -29,7 +29,7 @@ Note: The materials selection charts shown in some of the notes and in the video
 
 [Additional Resources](#BelowTable)
 
-[Table Organization]({{< baseurl >}}/pages/syllabus#Table_organization)
+{{< resource_link c4fd6fd6-1378-ecf4-a56a-b73c6b455e18 "Table Organization" "#Table_organization" >}}
 
 {{< anchor "video" >}}{{< /anchor >}}Sample Lecture
 ---------------------------------------------------
