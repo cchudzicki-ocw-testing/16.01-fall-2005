@@ -214,7 +214,7 @@ S/L9
 Materials and Structures Lab 1: Truss Analysis and Testing
 {{< tdclose >}}
 {{< tdopen >}}
-Truss Code ([ZIP](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/systems-labs-04/Truss_Code.zip)) (The ZIP file contains: array\_exceptions.ads, generic\_real\_arrays.adb, generic\_real\_arrays.ads, generic\_real\_arrays-operations.adb, generic\_real\_arrays-operations.ads, Sample\_Truss\_Input.txt, solve\_my\_truss.adb, truss.adb, truss.ads, Truss\_Input.txt.)
+Truss Code ({{% resource_link f4f5f554-7d12-c2b0-aaf9-928272b1e305 "ZIP" %}}) (The ZIP file contains: array\_exceptions.ads, generic\_real\_arrays.adb, generic\_real\_arrays.ads, generic\_real\_arrays-operations.adb, generic\_real\_arrays-operations.ads, Sample\_Truss\_Input.txt, solve\_my\_truss.adb, truss.adb, truss.ads, Truss\_Input.txt.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -328,7 +328,7 @@ S/L3
 Fluids Lab: Wind Tunnel Testing of a 3-D Wing
 {{< tdclose >}}
 {{< tdopen >}}
-Airfoil Coordinate File ([DAT](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/systems-labs-04/dfly.dat))
+Airfoil Coordinate File ({{% resource_link 54af1853-c91c-fb09-4976-21ee82b4d17e "DAT" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -350,7 +350,7 @@ Assignment Notes (![This resource may not render correctly in a screen reader.](
   
 RC Design (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link cadbb3d1-7135-9f26-8d67-eda9ee630146 "PDF" %}})  
   
-Wright Brothers Wind Tunnel Test ([XLS](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/systems-labs-04/cal_run.xls))  
+Wright Brothers Wind Tunnel Test ({{% resource_link 80c12c1d-03a8-6d12-4e83-dc298fe365cc "XLS" %}})  
   
 Dragonfly Baseline Performance Assessment (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 98581935-b535-a8d8-feb3-ba2f2d033a01 "PDF" %}})
 {{< tdclose >}}
