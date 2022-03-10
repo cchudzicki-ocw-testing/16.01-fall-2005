@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: t08_ps03_fall03.pdf
 uid: a0695009-ce40-0abf-121b-ae43075dd2b3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

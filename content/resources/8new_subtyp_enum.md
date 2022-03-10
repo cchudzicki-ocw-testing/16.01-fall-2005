@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 8new_subtyp_enum.pdf
 uid: ac00999d-fa49-67b7-ff4a-cd8780a9cc91
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

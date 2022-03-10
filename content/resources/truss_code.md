@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: Truss_Code.zip
 uid: f4f5f554-7d12-c2b0-aaf9-928272b1e305
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

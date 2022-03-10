@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spring2004_sp4.pdf
 uid: b4590170-9c72-ec82-fd89-2b500b793381
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

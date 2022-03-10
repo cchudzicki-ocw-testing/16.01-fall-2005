@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 05b2ba63-43e4-3028-bad4-cdf50e0b363a
 title: Reflective Memo from Fall 2003
 uid: 3e3c00a9-8d16-4a2e-2d13-4a7937df67fe
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Summary

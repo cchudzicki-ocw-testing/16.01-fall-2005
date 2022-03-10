@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: fall_2003_quiz_5f.pdf
 uid: 405c75ed-96e0-4e68-72a0-22c79d5085a2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

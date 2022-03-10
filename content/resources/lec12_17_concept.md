@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec12_17_concept.pdf
 uid: 3c4181d8-0290-f7c4-6c69-e35935e72251
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: c13_ps05_fall03.pdf
 uid: 2d37d54b-eec0-7b8d-4693-c1280fe65340
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

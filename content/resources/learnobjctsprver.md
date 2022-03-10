@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: learnobjctsprver.pdf
 uid: e3fe5ccf-2694-6121-6cc2-4c79eb3b8a90
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

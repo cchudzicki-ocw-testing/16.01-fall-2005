@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 05b2ba63-43e4-3028-bad4-cdf50e0b363a
 title: Thermodynamics/Propulsion Concept Questions
 uid: 218fb13a-8d8e-09a5-ecfb-2f437ed59ed4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The following tables contain thermodynamics and propulsion concept questions from current and previous semesters.

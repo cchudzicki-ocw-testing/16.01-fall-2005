@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Unified_Schedule_F03.pdf
 uid: 9d9fe1dd-2797-2a97-1383-984e8f5c2036
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

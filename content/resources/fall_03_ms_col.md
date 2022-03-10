@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: fall_03_ms_col.pdf
 uid: 5ee5c307-36d5-8685-1b5c-af8758a66f2a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

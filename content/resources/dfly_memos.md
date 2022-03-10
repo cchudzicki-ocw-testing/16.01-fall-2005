@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: dfly_memos.pdf
 uid: 76eb3605-14e7-29fc-af04-32cb883f9d3e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

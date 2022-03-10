@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: QUIZrev2.gif
 uid: d2ab397d-cf05-d86e-3dc4-0ad4fa60fac6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

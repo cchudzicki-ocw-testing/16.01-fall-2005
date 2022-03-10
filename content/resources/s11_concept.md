@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s11_concept.pdf
 uid: 9e54ad50-022f-fb86-e576-d0b2891f23d5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

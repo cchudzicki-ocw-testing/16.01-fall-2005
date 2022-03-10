@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s13_ps09_sol.pdf
 uid: 38ff57e8-3042-bb9d-9b7e-4db0b61e8f36
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

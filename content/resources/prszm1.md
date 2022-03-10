@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: prszm1.pdf
 uid: ecc5828d-5633-4e2a-b631-29878930f58a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

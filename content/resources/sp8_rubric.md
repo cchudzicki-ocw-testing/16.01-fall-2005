@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp8_rubric.pdf
 uid: c0968215-a386-e9a6-f5bd-aa95262042a9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

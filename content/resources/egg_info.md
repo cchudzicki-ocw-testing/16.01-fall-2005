@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: egg_info.pdf
 uid: 04acb69e-a0a0-9ae6-76dc-fe24b9d16b50
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

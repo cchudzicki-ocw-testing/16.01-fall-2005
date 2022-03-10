@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: springspschedule.pdf
 uid: e60bc6be-6aa6-73f0-4ad0-c4d55357fdb7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

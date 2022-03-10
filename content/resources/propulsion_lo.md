@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: PROPULSION_lo.pdf
 uid: 074acec5-17d2-ba39-2fa9-65b4bb34eb49
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

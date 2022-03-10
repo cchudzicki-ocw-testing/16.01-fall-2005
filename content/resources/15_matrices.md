@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 15_matrices.pdf
 uid: ca8f1e6f-a0aa-7678-3871-9e029fbf047e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

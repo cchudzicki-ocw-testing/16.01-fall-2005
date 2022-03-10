@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: c16_ps06_fall03.pdf
 uid: 57b8fbbf-a8bc-5912-480c-78d532f0e4a1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

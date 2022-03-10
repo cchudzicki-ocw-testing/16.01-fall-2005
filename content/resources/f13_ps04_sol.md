@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f13_ps04_sol.pdf
 uid: 1f5d1c33-6190-0bf7-2951-54ac68e668d7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f19_sp.pdf
 uid: 80217e83-47e9-81e2-3f90-537042280b8c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

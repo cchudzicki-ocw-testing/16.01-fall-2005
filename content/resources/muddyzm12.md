@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: muddyzm12.pdf
 uid: ce6cb5af-0ebd-eb00-58e8-f7a78262770c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

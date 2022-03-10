@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: chapter_5.pdf
 uid: 65bdbad9-5ca0-9856-3ddc-f76de3b6d7ee
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

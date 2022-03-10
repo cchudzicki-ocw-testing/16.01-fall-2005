@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: gm9_10notes.pdf
 uid: b86998d8-512c-92fe-3d0c-e0f112a7d3d1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

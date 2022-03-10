@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: unified_lecture_u1.pdf
 uid: 71194e1a-cb08-1bf6-7cd0-13b4a9271b16
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

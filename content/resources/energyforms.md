@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: energyforms.jpg
 uid: da415920-d119-583a-7c8b-6a2bed114894
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

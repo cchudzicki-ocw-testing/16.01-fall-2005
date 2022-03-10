@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 6_graphs.pdf
 uid: 88421ff0-ef32-19e7-f918-3dd2fcf555c1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

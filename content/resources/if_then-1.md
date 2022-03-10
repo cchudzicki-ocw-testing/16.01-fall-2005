@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: if_then.pdf
 uid: e8078b29-5452-4ffc-5b74-00d9e38cebcd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

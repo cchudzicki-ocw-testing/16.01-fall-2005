@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f07_ps10_sol.pdf
 uid: 5b5e2842-6925-4c02-fe9b-1aa3436a56f0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

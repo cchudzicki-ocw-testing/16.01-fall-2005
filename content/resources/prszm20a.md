@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: prszm20a.pdf
 uid: 9cd61442-3e9e-0c5b-0ec2-0d1e6fa4b19d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: thermo2003quizsol.pdf
 uid: b552d41b-cb16-b702-f411-41fd71b0f50d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

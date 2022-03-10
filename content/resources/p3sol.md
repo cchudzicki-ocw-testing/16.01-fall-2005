@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: P3sol.pdf
 uid: 4ee5c2ef-b41a-f39c-1a63-66fd83274fe9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

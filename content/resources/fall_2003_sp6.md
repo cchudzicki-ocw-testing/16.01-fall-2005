@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: fall_2003_sp6.pdf
 uid: 5726777a-b122-60a1-8f75-80ac46995656
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: redefining_eng.pdf
 uid: ec93bf02-7d4e-7502-1b09-d35ff8a4922c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

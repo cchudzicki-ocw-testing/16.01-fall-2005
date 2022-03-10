@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: chapter_4.pdf
 uid: fc24798b-0e93-7a30-82cd-fb183121e82e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

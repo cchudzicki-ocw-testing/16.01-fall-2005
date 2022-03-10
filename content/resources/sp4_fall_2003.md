@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp4_fall_2003.pdf
 uid: 3dcc59f2-3dcf-c3aa-4e50-c3de233ad799
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

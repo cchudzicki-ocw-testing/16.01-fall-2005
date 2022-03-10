@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: velocitytriangles.pdf
 uid: bb4791ac-f83c-9c0e-4bca-0d6493cebfff
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

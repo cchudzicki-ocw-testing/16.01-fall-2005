@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 14_wrtng_largprog.pdf
 uid: 8441f8a6-5912-7df8-9402-45dcb3b65bc4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

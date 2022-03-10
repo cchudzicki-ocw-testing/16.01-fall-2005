@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp_S15_mud.pdf
 uid: aede263f-c97e-f312-44e2-c6e79450d5a5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

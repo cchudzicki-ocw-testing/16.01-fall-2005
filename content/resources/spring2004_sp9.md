@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spring2004_sp9.pdf
 uid: 547e9af3-27cd-ae03-346f-3c3c9c22c885
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

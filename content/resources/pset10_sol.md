@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: pset10_sol.pdf
 uid: 4ccd2aec-e02b-ee33-cbd1-166be4f54cbb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

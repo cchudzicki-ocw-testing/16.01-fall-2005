@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spring2004_sp6.pdf
 uid: eda71b26-ba82-d349-f817-7e53fc4a6bf4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

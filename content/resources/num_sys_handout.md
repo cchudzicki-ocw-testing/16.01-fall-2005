@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: num_sys_handout.pdf
 uid: b8fd0a19-2a3f-5309-3634-027db69c310b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

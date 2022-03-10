@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f21_ps15_sol.pdf
 uid: f003555f-8ce2-428d-ac36-75be1e2d1ed0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

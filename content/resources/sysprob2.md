@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: sysprob2.xls
 uid: 634f6a3b-158d-3d99-1055-4035eee4d034
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

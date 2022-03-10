@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: pset8_sol_04.pdf
 uid: f9557c85-3df1-d7c2-4e36-4f8683ca4f32
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

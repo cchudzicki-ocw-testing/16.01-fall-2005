@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spl9c.pdf
 uid: 466ce2e5-fd1c-f699-357e-450c34b38b1f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f10_ps11_fall03.pdf
 uid: a20bde68-0e0b-64cc-7ca4-172967bf80a2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

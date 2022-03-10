@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: P8sol.pdf
 uid: e57bfc30-0ce2-948a-6950-83ce20ff3c67
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

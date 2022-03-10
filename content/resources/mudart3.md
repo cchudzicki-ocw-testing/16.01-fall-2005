@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: mudart3.jpg
 uid: 5e852fe0-eb4c-4c5f-98d4-11e2e2dd993c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f14_mud.pdf
 uid: 60753f20-5dd1-feb0-4545-6d6896753e63
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

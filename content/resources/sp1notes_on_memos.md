@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp1notes_on_memos.pdf
 uid: 242a1abd-fbc2-4fd0-55ec-7d6ecd183bb3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

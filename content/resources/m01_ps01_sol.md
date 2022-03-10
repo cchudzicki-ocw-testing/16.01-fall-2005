@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: m01_ps01_sol.pdf
 uid: 751a1bef-cfa1-45a1-12af-5e311ba4bdf2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

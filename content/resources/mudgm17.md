@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: mudgm17.pdf
 uid: 766d9136-2beb-813e-cb80-27164891fa71
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

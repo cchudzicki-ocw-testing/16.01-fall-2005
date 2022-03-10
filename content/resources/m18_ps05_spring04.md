@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: m18_ps05_spring04.pdf
 uid: cfb52f3f-4302-1768-ad24-0d8cfc5ff812
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

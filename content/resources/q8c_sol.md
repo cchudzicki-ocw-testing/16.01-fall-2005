@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Q8C_sol.pdf
 uid: 0ab75a81-7ac8-715a-c7aa-59469dbedad8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

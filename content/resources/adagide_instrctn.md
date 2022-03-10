@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: adagide_instrctn.pdf
 uid: 310f3cca-615e-cfe2-007d-40c425e90b07
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

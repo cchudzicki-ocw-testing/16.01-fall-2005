@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp1_lecture.pdf
 uid: 60edf693-2d81-3d4c-60dc-59c1028673c4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

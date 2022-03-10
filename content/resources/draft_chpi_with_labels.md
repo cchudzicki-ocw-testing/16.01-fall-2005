@@ -13,4 +13,8 @@ ocw_type: OCWImage
 resourcetype: Image
 title: draft_chpi_with_labels.jpg
 uid: 03cbd5eb-1396-c3cb-e59f-572645bbb6cc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

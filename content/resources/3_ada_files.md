@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 3_ada_files.pdf
 uid: a9bae4df-0557-eda2-8a87-b5f8a371c751
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

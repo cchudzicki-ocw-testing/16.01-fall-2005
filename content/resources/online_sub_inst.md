@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: online_sub_inst.pdf
 uid: 35098308-b932-3f81-04c2-34a1e9b31f39
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

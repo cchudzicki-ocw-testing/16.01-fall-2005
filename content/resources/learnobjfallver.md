@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: learnobjfallver.pdf
 uid: e2055512-8399-efc0-7d6b-0a267bead555
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

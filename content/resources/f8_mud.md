@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f8_mud.pdf
 uid: 368d1025-b7a9-da22-f105-9e6d410fa2d3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

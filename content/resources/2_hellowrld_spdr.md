@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 2_hellowrld_spdr.pdf
 uid: 630e675a-2f52-f1da-fd92-5d33134248a3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

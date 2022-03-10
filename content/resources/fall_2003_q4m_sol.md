@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: fall_2003_q4m_sol.pdf
 uid: c4ae163c-63b3-9fc7-09b5-e8d91ece0c5f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

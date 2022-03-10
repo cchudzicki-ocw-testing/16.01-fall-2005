@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sysprob6.pdf
 uid: 527df518-1c6b-eafe-c230-9cc655845fc5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

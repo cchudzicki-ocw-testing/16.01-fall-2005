@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Exams
 uid: dc102ab9-fad7-5fe0-6da4-e71c66aab8ef
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section contains the quizzes administered during both the Fall 2005 and Spring 2006 semesters.

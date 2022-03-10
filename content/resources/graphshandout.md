@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: graphshandout.pdf
 uid: a86346b6-19ae-7fc4-82e7-919bc7a03169
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

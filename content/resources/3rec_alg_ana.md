@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 3rec_alg_ana.pdf
 uid: 126fc643-6f1e-e6d2-26ad-43760555fe67
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

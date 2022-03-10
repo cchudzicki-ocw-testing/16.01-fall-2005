@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spring2004_sp1.pdf
 uid: 39209153-3fe4-6ae8-2646-ac79468de823
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f16_fall.pdf
 uid: 52b14891-6995-923b-ec75-c35a36deedd0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

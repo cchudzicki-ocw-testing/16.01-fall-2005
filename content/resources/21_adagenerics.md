@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 21_adagenerics.pdf
 uid: a9780d80-2a41-c604-8b2c-5a3b177c80b5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

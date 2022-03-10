@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: q2f.pdf
 uid: 97b7295e-75b9-3c3f-a5b5-6b10006bb8b3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

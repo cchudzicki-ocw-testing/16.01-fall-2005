@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: gnat_inst_instrc.pdf
 uid: 8c721b59-1e17-f836-8d6a-2a25f5bb5473
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

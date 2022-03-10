@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: prsm11.pdf
 uid: 537e5605-317d-a321-fa9d-c7f28a2c83de
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

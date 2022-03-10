@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f07mathdivcurl_fall.pdf
 uid: 3f93639e-0916-cee7-3c9d-587aadf75db2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

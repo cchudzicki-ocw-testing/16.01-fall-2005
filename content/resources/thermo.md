@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: thermo.pdf
 uid: 15aecdbf-b9c8-3172-ff47-767bf2cba63e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

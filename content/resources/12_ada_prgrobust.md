@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 12_ada_prgrobust.pdf
 uid: 4ee1477a-d2eb-8a69-5169-e0e03c1d51bb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

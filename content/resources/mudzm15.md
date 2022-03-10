@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: mudzm15.pdf
 uid: f7a0be14-cd57-2152-5f60-b4ee21cc8070
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

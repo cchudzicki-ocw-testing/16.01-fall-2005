@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: gm1_4_notes.pdf
 uid: b05b9c57-99b4-32cc-8c3a-3503da5656ce
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

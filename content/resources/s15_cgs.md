@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s15_cgs.pdf
 uid: 2103453a-658b-7bda-8dc4-a1d85c9596b3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

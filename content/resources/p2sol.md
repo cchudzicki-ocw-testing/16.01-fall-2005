@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: P2sol.pdf
 uid: 1693e5ff-ce81-d296-cbb1-82f0324a92e2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

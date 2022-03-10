@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: uac2004rules.pdf
 uid: 9953fd4e-a08a-ce52-0447-3af434e6f47a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

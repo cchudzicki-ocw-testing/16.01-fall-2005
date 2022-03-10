@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s07_ps08_spring04.pdf
 uid: 14a05935-c494-bcda-b72f-6dfbd9587640
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

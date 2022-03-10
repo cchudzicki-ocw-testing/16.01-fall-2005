@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: m19_ps06_spring04.pdf
 uid: ae339e47-fbf1-a9fa-04c8-03713e2f3c9c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

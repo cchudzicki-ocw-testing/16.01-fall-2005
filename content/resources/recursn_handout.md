@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: recursn_handout.pdf
 uid: 37b87d0d-c5dc-c530-8431-d53531748f32
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

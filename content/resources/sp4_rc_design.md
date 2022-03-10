@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp4_rc_design.pdf
 uid: cadbb3d1-7135-9f26-8d67-eda9ee630146
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

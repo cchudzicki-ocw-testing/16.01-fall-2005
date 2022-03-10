@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: breguetnoteseps.pdf
 uid: 92ab2685-b677-3e76-79e7-beac1db1b763
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

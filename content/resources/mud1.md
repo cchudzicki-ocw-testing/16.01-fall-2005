@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: mud1.pdf
 uid: d67886f0-a456-6ba6-310f-05cf262f5326
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

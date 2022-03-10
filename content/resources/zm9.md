@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: zm9.pdf
 uid: deda963f-e45a-0357-bdc9-1aa3fd73d6e6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: fall2003sp5lec_2.pdf
 uid: f6b88fb8-7d5a-7ced-dbf3-ad81314c3183
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

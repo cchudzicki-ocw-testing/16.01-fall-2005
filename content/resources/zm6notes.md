@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: zm6notes.pdf
 uid: ccb84110-48f2-684f-eb3f-c38b0b517b44
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

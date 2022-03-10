@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: obj.pdf
 uid: 24577fa8-7b5a-a5b9-99cb-e491bddd59cb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

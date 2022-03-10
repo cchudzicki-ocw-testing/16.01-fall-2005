@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 9pckgs_prc_fnc.pdf
 uid: 610f7cc2-84e0-4e31-708f-e871054e4420
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

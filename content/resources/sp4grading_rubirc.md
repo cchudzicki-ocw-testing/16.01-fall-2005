@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp4grading_rubirc.pdf
 uid: 4f3a0736-5b4e-d76d-fe7b-90c486821dc0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

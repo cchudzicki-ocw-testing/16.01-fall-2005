@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f07mathgrad_fall.pdf
 uid: 29fa0771-085a-3889-f5a7-0145a1cc53f1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

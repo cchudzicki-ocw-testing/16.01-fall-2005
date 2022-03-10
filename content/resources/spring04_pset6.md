@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spring04_pset6.pdf
 uid: 8a33d8f4-bd76-9ee0-8262-9e1c22a9352f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s01_lec.pdf
 uid: 089307a8-1512-e015-ab6c-afe2e0a12bcd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

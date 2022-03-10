@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: beamsquizhandout.pdf
 uid: 26a4c795-200c-2760-9441-1ecf58e297d3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

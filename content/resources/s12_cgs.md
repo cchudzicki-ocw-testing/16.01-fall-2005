@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s12_cgs.pdf
 uid: 67282018-5775-33fe-c3f4-ef01376679a1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

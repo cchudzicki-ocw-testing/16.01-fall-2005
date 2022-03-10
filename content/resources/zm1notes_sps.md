@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: zm1notes_sps.pdf
 uid: f990cd7e-7dc9-6be6-2570-20463f6dc377
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spl6.pdf
 uid: 73258bf2-b839-1a43-7949-f76f4ecf423c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

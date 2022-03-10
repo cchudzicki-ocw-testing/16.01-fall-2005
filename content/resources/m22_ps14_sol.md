@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: m22_ps14_sol.pdf
 uid: dc8f9dc7-71af-f0ee-8e33-8b3589e2b82e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

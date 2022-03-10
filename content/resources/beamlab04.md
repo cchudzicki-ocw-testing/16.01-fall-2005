@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: beamlab04.pdf
 uid: dc54588b-34be-6c3b-7cce-7d8cee75df5f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

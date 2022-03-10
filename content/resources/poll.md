@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: poll.pdf
 uid: 02b574b3-83ea-7244-0163-21c567bae597
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

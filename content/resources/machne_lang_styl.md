@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: machne_lang_styl.pdf
 uid: 87885aa1-2753-853b-4f25-4fc24a35e504
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

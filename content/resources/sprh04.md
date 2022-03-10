@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sprh04.pdf
 uid: 1f1b4e82-bae2-ff8c-e609-bc96fe20eedb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

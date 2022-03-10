@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 16_logic.pdf
 uid: 2c2b8be1-3dbc-bc97-29e0-c30e168ef2b2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

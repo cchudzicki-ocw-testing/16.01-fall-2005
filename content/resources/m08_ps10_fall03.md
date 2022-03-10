@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: m08_ps10_fall03.pdf
 uid: eac7f7bc-e0fb-7e6b-b1cc-a9a8b715edd7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

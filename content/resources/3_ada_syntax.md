@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 3_ada_syntax.pdf
 uid: 7a62cbbe-083b-b6e0-ea90-39bca364b227
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

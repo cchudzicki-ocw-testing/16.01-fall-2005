@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: m05_ps02_spring04.pdf
 uid: 1002d1af-24d7-31b2-a900-9545ec706dce
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

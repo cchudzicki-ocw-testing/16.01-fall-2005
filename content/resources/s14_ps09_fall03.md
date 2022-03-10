@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s14_ps09_fall03.pdf
 uid: 09631e9e-24ef-14b0-6896-9864d2887f96
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: calendar_fal2005.pdf
 uid: 3e0dedf9-d04e-28e3-f6c4-a5146eb8102f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

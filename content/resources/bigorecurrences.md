@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: bigorecurrences.pdf
 uid: 9ea490a9-e30d-004f-9a24-f4151b05749b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

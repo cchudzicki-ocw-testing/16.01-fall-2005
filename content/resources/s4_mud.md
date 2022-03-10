@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: S4_mud.pdf
 uid: 8b9f567a-34fe-0345-276a-e83f56c26441
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

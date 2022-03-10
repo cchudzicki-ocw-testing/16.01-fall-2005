@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: prszm5.pdf
 uid: 87cf3cfe-7d95-739f-3414-b0f7398da53c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

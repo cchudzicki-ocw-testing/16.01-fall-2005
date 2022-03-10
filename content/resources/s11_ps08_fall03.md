@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s11_ps08_fall03.pdf
 uid: 534f784c-622b-e0fc-47fe-77f2f06f4bd4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

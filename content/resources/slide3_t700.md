@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: slide3_t700.jpeg
 uid: 9c0d1fcd-f842-fd44-3d45-14011e2fb22a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

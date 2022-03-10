@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: image3_t8_t903.jpg
 uid: 3f32fb9c-1c51-89a3-8401-77474d253264
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

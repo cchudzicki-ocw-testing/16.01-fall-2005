@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: prsm8.pdf
 uid: d81d7246-cf7f-ae2b-98bc-73b4717a8868
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

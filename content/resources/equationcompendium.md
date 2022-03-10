@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: equationcompendium.pdf
 uid: 8dda908d-284b-cd5e-490c-8403e641819f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

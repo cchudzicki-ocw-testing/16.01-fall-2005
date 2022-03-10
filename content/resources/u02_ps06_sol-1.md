@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: u02_ps06_sol.pdf
 uid: 4f872fcd-09e3-877d-dba6-6502c16a6bdc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

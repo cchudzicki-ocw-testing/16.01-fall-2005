@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Materials/Structures
 uid: b640d5c4-9375-61ab-448e-c8a1ec804a97
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Instructor

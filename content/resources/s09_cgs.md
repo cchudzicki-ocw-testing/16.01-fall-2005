@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s09_cgs.pdf
 uid: 4feaa775-ce87-fbbe-7283-f4735d3ac7ff
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

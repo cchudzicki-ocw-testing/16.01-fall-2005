@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spring2004_sp8.pdf
 uid: fe5860bf-4081-63fb-5202-bc7b2cf7a802
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

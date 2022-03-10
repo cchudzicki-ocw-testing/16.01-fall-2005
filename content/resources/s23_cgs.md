@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s23_cgs.pdf
 uid: 8d8ecf98-aca8-87a8-0481-3336247c9e5f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

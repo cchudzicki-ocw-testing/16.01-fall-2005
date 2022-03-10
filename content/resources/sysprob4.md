@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sysprob4.pdf
 uid: 44916949-a807-c3a6-d4ee-fef2d490679b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

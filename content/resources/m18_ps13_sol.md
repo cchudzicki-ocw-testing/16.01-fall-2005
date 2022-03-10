@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: m18_ps13_sol.pdf
 uid: a2c3f3b1-8ad4-016c-6a19-8f6287803cd8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

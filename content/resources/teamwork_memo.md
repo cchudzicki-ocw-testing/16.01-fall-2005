@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: teamwork_memo.pdf
 uid: fb0ddb75-9d38-8998-0e0f-b46acd32e45d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

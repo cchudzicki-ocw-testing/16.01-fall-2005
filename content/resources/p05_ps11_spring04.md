@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: p05_ps11_spring04.pdf
 uid: 7a961fc1-424a-91b8-8574-d214a9f5ae69
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

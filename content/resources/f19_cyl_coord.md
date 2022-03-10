@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f19_cyl_coord.pdf
 uid: 6bef9d49-8fa2-f716-28df-e44e7281a550
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

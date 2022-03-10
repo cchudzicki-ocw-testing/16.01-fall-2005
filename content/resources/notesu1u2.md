@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notesu1u2.pdf
 uid: 7308730d-d597-147e-ffd8-6103d795dab4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

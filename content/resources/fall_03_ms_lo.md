@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: fall_03_ms_lo.pdf
 uid: 3ca1ba39-498b-e552-a881-10ffe53fc308
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

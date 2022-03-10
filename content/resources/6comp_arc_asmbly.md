@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 6comp_arc_asmbly.pdf
 uid: 7ae7c083-de1e-e3fc-8f3a-603bb126df8c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

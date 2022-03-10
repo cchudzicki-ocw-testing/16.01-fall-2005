@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: t08_ps03_sol.pdf
 uid: 45da751a-90df-06f3-a671-df349ebd906d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

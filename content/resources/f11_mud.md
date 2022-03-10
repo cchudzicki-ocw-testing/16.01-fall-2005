@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f11_mud.pdf
 uid: a7293462-acac-a70f-82f1-ef3e9a1ac36a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

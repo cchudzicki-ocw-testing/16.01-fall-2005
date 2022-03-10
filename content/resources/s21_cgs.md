@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s21_cgs.pdf
 uid: d7c7e99f-8a87-6d32-9de5-1a26a5d9bd34
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

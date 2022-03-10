@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 10_sort_alg.pdf
 uid: 2ac6f6a3-de8b-29fe-563b-9e47afa3d995
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spl7.pdf
 uid: 32c9dff9-69ee-8cbf-f94e-b44d1f2cd898
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

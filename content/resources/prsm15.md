@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: prsm15.pdf
 uid: 424e85e4-5754-17d0-2575-15623e119538
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

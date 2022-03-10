@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f20_sp.pdf
 uid: 9fb00fb3-c4d3-8fad-aa65-c21f7ba2ce92
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

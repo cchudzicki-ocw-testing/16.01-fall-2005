@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 7_assembly.pdf
 uid: bad38792-bf94-5c7b-2dd0-592fd80e285a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

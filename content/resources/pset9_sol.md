@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: pset9_sol.pdf
 uid: 98ba7a41-2036-3cb8-4e4a-c85da2dc1fb4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

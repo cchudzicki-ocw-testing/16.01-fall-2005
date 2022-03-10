@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp4_asgnt_notes.pdf
 uid: 5f4354a3-d2f6-a552-115c-0c35d1cb5ed5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

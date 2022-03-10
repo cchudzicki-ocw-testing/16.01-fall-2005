@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: node_loop_meth.pdf
 uid: 188228da-c72f-55ee-8e37-5f5f04164e05
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

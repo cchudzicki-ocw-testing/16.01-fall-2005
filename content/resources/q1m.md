@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: q1m.pdf
 uid: 4861617b-9311-dc7b-a3ce-c6de915e4bb9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

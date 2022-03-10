@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s01_ps04_fall03.pdf
 uid: db9eb951-26f9-5182-7efa-ef478e47eb0d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

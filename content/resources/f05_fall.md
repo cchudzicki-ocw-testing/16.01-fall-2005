@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f05_fall.pdf
 uid: c6603238-ec44-8ee2-2dc1-c988898b51a5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

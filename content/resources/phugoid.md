@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: phugoid.pdf
 uid: 4e932d24-f9d4-b179-1882-0220ce1bd11e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

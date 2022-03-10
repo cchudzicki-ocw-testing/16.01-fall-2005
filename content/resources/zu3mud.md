@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: zu3mud.pdf
 uid: 663d2779-ce70-738a-bd09-baeb50ece46e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

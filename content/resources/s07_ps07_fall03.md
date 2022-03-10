@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s07_ps07_fall03.pdf
 uid: 66e03aa7-8585-25c0-e359-bc7fc6591205
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

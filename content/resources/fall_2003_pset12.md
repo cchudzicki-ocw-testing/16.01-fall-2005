@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: fall_2003_pset12.pdf
 uid: 766fe6f3-340d-6e44-9396-9904cfad7407
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f06_sp.pdf
 uid: b21b454e-7e3e-2f14-5878-db1930d2bbfa
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

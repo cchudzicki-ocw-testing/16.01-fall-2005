@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 1_ada_overview.pdf
 uid: a4f41805-0841-f274-4396-97ca41df6b45
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spring_spl1.pdf
 uid: 880678ca-3fb1-307a-a73d-e7a6d073d730
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

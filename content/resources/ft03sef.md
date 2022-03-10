@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: FT03SEF.pdf
 uid: acfe5491-daff-2e87-605f-f015b30a4fcd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f04_ps09_sol.pdf
 uid: e7831974-0d33-a380-1539-ee4216d3baec
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

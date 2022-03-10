@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: mudzm6.pdf
 uid: ba8f80ae-6a49-dfe3-bb0f-c709f1d61c4b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

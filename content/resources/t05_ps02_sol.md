@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: t05_ps02_sol.pdf
 uid: 635f1af7-c50d-65ec-16ad-6124d0415c26
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

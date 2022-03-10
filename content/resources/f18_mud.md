@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f18_mud.pdf
 uid: 1a239733-9611-270b-4899-d45eab5758c0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

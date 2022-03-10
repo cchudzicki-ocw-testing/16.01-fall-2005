@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp1cboppe_sat_sys.pdf
 uid: 581c3117-352a-a544-c43a-54dbccb43b83
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 18_morelogic.pdf
 uid: fea0a1d5-22f1-1b5c-596a-db9ff37deee0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: StudentSelfAssess.pdf
 uid: 2b4ff330-96c3-36cb-dd0a-9e7cfec40d4f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: fall_2003_q6f.pdf
 uid: 91d32511-2598-5a45-53b6-bab6774a48a5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

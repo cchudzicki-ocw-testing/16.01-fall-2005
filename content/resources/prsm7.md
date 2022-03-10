@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: prsm7.pdf
 uid: b86d34bd-df19-d9af-1e62-7c746b1ec7f1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

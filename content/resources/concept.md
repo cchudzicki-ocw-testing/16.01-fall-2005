@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: concept.pdf
 uid: 5626ebc4-3835-4ac1-7762-67caca4af2cd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

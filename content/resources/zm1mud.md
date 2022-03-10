@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: zm1mud.pdf
 uid: 6855ff87-9dff-a004-cab1-c4fbb2876104
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

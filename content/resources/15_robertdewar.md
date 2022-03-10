@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 15_robertdewar.pdf
 uid: 6b7aae7d-c07d-c4c4-a512-7be8483ecfc9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

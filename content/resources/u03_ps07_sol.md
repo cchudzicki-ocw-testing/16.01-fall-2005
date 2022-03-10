@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: u03_ps07_sol.pdf
 uid: 2e52f040-4ce9-1891-7706-cda526e9bb05
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

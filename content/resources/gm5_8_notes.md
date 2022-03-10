@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: gm5_8_notes.pdf
 uid: f66f80cd-5fbd-5cf8-295d-7b1e1e28a368
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

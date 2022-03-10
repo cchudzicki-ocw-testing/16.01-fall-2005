@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp4lecture_notes.pdf
 uid: d7a8ce4a-5403-bd14-de70-339985b32445
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

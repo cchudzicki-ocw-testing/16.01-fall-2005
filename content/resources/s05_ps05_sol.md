@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s05_ps05_sol.pdf
 uid: 428d1ec2-7f1d-2bde-bbb1-adcf0b3138f0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

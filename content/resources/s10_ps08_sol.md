@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s10_ps08_sol.pdf
 uid: 807513fa-cca0-8662-5816-48483deff941
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

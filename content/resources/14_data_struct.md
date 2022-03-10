@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 14_data_struct.pdf
 uid: af5c025e-8c7a-d421-83a1-475dda55b019
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

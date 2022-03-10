@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: wingloading.pdf
 uid: 2d05bd9b-47ad-47c4-b614-c4ca63b60ebc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

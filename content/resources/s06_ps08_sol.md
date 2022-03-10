@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s06_ps08_sol.pdf
 uid: 932e3d96-dd1b-52b4-4bf8-2cd04daa389d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

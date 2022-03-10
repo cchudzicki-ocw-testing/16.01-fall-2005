@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: cp2_4_ps07_sol.pdf
 uid: a68c817f-3bd8-0f9a-734e-b5332852580d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

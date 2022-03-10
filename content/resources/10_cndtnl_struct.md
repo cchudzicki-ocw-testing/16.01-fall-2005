@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 10_cndtnl_struct.pdf
 uid: 4963980a-e433-e4f6-4c30-a22aea54004a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 5_ada_acc_tyoes.pdf
 uid: 391a7dbd-25b2-bb5c-8c1d-ff3ae9332459
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

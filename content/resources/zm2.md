@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: zm2.pdf
 uid: bf9d90c6-bff1-31ec-3790-206cbe3594b2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

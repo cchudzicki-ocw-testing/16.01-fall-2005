@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s02_cgs.pdf
 uid: 63063a7d-ca52-9189-75cf-c142aefd3611
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

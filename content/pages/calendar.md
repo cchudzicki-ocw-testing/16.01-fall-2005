@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 0f11e3a8-8575-7742-68b1-9fbbe9ada2d2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section contains the calendars for the Fall 2005 and Spring 2006 semesters. The calendars are presented both in [PDF format](#pdf), as well as [HTML format](#html). Due to the complexity of the calendars, detailed explanations of the course format and a [calendar key](#calendar_key) are provided prior to the presentation of the calendars.

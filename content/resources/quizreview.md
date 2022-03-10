@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: QuizReview.gif
 uid: 288f98ac-083d-1dcf-3464-55f6e2f650c3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

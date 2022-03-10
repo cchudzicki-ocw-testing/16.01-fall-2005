@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spl3.pdf
 uid: 369e18b2-5007-e37a-6e5e-ace7c0a0745e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

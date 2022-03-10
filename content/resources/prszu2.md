@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: prszu2.pdf
 uid: d81cfb13-c3ac-ddb9-ee90-209a9de30713
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

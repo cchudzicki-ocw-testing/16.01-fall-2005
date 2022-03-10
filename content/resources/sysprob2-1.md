@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sysprob2.pdf
 uid: 5fa5778c-1109-9968-5aab-ac2d08cfcc03
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

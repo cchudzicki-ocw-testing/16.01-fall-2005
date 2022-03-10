@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s16_ps13_sol.pdf
 uid: 3eccca20-b526-c76f-497c-107324d0d503
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: fall_2003_systems_lo.pdf
 uid: 4dc53cfe-4109-e5ec-b4a3-e5cf7ca5ace4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

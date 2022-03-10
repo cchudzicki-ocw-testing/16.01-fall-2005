@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f15_ps05_spring04.pdf
 uid: dcb8e6dd-467e-fea5-a8ff-5c7b625b92eb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

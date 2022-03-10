@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 4bitsbytesifthen.pdf
 uid: 301e1b14-9531-03cb-0d25-4242c59da47c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

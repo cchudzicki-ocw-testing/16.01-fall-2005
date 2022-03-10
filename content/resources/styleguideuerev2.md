@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: styleguideuerev2.pdf
 uid: 9b70013b-752d-0b3b-82f1-18de640f646b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

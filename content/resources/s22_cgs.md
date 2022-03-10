@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s22_cgs.pdf
 uid: fee87dd2-e206-b47b-e649-5e03ac022fc1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

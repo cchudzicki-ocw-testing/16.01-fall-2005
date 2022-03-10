@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: m19_ps06_sol.pdf
 uid: e0a617ab-0318-5cee-4f28-986178ce0968
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

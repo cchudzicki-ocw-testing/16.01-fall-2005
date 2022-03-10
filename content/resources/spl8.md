@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spl8.pdf
 uid: ffbff8a4-985e-e6ea-819a-fb90c40834e3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

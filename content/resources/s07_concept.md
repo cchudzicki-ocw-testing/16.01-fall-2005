@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s07_concept.pdf
 uid: 9e52b171-0e01-4dfb-3da4-f44af116eac7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

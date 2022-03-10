@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spl2a.pdf
 uid: 369c0ff0-2ee8-33cb-d02a-8033e5ad34da
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: good_mud.jpg
 uid: e2d8688f-d9c0-a978-fc26-03b5efe07bee
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

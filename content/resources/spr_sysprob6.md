@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spr_sysprob6.pdf
 uid: 7cd09861-266b-06a8-501f-dbd9faa23d4a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

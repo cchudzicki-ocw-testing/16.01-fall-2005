@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: c04_ps02_sol.pdf
 uid: d123a1fe-47be-1b3d-4b5a-76a1657824db
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

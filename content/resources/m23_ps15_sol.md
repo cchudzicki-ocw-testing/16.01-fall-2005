@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: m23_ps15_sol.pdf
 uid: 1033748e-d827-5d24-d9d7-b17b379adf41
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 16_record_files.pdf
 uid: 0bcb4b9a-ee89-95ed-b971-8543aa5e9e98
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

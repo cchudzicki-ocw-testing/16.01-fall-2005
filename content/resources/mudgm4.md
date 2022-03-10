@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: mudgm4.pdf
 uid: c5c4f49b-7440-b1a5-a78c-7bfcc0eddd81
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

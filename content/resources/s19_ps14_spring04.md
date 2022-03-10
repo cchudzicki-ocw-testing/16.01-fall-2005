@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s19_ps14_spring04.pdf
 uid: c98e613e-8805-9e42-1ef3-06fc1f49be8e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

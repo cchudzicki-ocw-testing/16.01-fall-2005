@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 1_intro_to_cp.pdf
 uid: f22f92f6-bfb3-91af-f77d-ed0dcab89067
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

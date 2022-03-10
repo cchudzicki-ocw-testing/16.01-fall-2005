@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp9report2grad.pdf
 uid: 9b220a8a-0bb0-73cd-6439-9d86abc185bd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

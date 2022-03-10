@@ -5,6 +5,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Systems/Labs 04
 uid: 87e8f47c-351c-ccd4-50e9-b5e03c5bbee2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - f912f9c0-4e2b-bbbb-b9af-dff88f60325a

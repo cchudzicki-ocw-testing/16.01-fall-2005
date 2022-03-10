@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: fall_2003_sp5.pdf
 uid: 8c4a0e57-8bfb-e1d5-6209-97f63646da11
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

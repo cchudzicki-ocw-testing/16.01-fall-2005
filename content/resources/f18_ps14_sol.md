@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f18_ps14_sol.pdf
 uid: be30a118-1d39-3324-2c84-6693d66966ca
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

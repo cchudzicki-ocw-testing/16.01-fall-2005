@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: prsm2.pdf
 uid: ea85f658-50ac-cf0b-f9f2-a4374bd23e0c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

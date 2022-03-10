@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: firstlawvanness.pdf
 uid: 3eb1ba5a-eed9-42b3-1876-e9fe2eadaea2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

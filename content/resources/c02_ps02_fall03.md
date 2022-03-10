@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: c02_ps02_fall03.pdf
 uid: 60692fe6-f95d-bea4-62ce-5ff181e5896b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

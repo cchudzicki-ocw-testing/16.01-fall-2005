@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: slide1_t800.jpeg
 uid: 91c75fec-51ca-602d-b299-18477f323da6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

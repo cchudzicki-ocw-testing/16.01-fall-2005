@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s17_ps13_spring04.pdf
 uid: 9e17bf33-ec95-4b7b-8e2a-2c850548af11
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

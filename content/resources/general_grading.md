@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: general_grading.pdf
 uid: 6f427441-0e7d-eee8-a6a4-fee18a82efa5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 7_trees.pdf
 uid: 2ee16347-df7a-1ef7-267b-817c27e4e61b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

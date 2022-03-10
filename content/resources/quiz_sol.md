@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: quiz_sol.pdf
 uid: a5058172-10d2-eae2-eb78-998ad5609da1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f22_ps15_fall03.pdf
 uid: e5596ba9-5b73-96c0-5f57-1d5b20269dab
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

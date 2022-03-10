@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: pset6_sol.pdf
 uid: 0fa2886b-b26b-52e4-e2ee-f86dcdcdc82f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

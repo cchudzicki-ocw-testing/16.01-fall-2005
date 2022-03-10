@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sysprob8.pdf
 uid: 3c3fb46a-f452-653e-4616-e1918c63f218
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

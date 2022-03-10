@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: gnat_315p_nt.exe
 uid: 4cefff50-84bc-c9d8-3880-bcef5eb14130
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

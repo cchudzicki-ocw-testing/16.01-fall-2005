@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s22_ps14_spring04.pdf
 uid: b7d52dd8-f3a5-ba15-1f4c-74e64ecd8b0a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

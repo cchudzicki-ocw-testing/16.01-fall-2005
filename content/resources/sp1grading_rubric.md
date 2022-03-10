@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp1grading_rubric.pdf
 uid: 0b67a806-a06b-45db-0f43-9a692a11985a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

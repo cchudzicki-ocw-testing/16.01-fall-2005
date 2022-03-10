@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: learn_objective.pdf
 uid: 138b7c9a-3040-721a-72be-dab43a4fac28
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

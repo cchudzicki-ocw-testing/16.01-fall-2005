@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: xfoil_inst.pdf
 uid: 92711fd7-4589-bf6a-d83e-d8a4d2c3183a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

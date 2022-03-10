@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s12_concept.pdf
 uid: dd886ce1-c190-87eb-0cdc-51dbd5f12fcd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spl1.pdf
 uid: 861a6a9d-96e0-0c43-c097-0213d42e3edf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

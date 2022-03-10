@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: q2f_sol.pdf
 uid: 1d29a0d5-0e5f-1bf5-d5b8-59f201373e72
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 20_proofs.pdf
 uid: 0599163e-36ac-f071-5fa1-323a0e78fe3b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spl4lecture.pdf
 uid: 98581935-b535-a8d8-feb3-ba2f2d033a01
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

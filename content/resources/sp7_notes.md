@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp7_notes.pdf
 uid: 122da0ff-dc4a-15d9-5868-5358dde118f3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

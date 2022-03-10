@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f5_mud.pdf
 uid: e8326f60-2254-93eb-932a-dfa83621107f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: m05_ps08_fall03.pdf
 uid: ba60092e-faec-f5c5-8921-a6321bc0f549
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

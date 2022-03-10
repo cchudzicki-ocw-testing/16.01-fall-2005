@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: quiz_hdot_m11_14.pdf
 uid: d6610abb-79ac-e819-84f0-41be6249952a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f10drag_sp.pdf
 uid: 82ead7bc-6972-d585-3b81-a6686156f474
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

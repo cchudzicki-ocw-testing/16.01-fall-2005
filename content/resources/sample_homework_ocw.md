@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sample_homework_OCW.pdf
 uid: 245c649b-6f36-1d84-1028-1be65d6e0e86
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

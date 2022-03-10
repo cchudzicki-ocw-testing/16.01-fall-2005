@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: zmnotes14_15_16.pdf
 uid: 88137d7c-8cdd-0f24-5c9e-e63fe5481c73
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

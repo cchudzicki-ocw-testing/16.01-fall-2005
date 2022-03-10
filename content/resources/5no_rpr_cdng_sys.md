@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 5no_rpr_cdng_sys.pdf
 uid: 747a087a-4c68-3247-e0a7-5cf2841b3b65
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

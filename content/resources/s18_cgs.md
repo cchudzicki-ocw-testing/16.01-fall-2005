@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s18_cgs.pdf
 uid: 2aff070d-1c73-41ff-9cf9-d871dbbbe30f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: styleguide.pdf
 uid: 763c8a71-f9bf-a199-d7a1-6c9fdc21808b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

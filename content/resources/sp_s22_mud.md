@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp_S22_mud.pdf
 uid: e239a2d6-53eb-be9c-532f-9308cfd7917a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

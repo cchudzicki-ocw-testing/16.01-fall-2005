@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 19_evenmorelogic.pdf
 uid: 1187ce38-e8cc-ccd5-d267-9a3b604f3b59
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

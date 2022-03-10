@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 13recurenc_equat.pdf
 uid: 8ff1cef6-f24e-c6ed-3564-ec47db149ac0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

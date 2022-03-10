@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f09_sp.pdf
 uid: d77d7c79-3e7a-22e2-0b53-05547196adbf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

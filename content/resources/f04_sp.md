@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f04_sp.pdf
 uid: 8d40a37b-b73f-450a-e132-d53dc4bc8cf7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

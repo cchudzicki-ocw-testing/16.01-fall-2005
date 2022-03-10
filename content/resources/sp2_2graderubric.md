@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp2_2graderubric.pdf
 uid: 2cfd0d36-272b-801c-7f81-aca8098bed23
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

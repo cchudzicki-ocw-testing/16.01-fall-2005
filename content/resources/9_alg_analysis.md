@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 9_alg_analysis.pdf
 uid: 0f71d8d3-5943-aa07-2363-e0c3185fbca7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: P4sol.pdf
 uid: 4bb8218a-a715-de75-0938-2db6a9b5c4c9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

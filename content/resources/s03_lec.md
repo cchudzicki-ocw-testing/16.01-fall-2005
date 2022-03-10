@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s03_lec.pdf
 uid: c43e5cf3-d45c-3845-9673-ba3a4f827469
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

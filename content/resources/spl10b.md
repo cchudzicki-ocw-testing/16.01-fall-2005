@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spl10b.pdf
 uid: 21cb09c6-7195-d8b3-06de-55214c2b2f87
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

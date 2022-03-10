@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: acr27a.jpg
 uid: 8b000289-6790-e9ab-5eaa-d9375afd9d13
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

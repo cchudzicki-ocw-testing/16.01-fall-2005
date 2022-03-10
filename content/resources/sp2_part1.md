@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp2_part1.pdf
 uid: c3d2137a-3a6c-aa1c-8fa5-2a52a4856824
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

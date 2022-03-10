@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 8_binary_trees.pdf
 uid: 23510d24-455f-42f4-ebf1-c893f2a1b56b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s14_ps12_sol.pdf
 uid: 94edc2bd-61fa-2ae9-fea0-ac9aa7d22f11
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

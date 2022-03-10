@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spring04_pset2.pdf
 uid: 2a365179-08a6-2e87-e4a9-605ffffc2b1c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

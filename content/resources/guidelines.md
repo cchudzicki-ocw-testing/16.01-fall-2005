@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: guidelines.pdf
 uid: 7b1fb14b-0bb9-c2ad-7721-f0107993ed88
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

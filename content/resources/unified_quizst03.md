@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Unified_QuizST03.pdf
 uid: 052daa2a-5fc3-d199-482b-786e31a5e3f0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

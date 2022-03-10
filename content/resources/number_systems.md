@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: number_systems.pdf
 uid: 84063b26-8408-fcd4-398c-0ac44dfd6db5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

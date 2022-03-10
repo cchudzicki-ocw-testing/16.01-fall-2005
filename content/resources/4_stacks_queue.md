@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 4_stacks_queue.pdf
 uid: 5a56b6e4-940e-c7cb-b521-b0393e4a9eb1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

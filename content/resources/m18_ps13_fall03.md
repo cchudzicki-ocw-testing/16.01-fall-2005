@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: m18_ps13_fall03.pdf
 uid: abe20323-078b-e3be-cc04-8537e78b422c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s15_ps12_spring04.pdf
 uid: 7c396184-fd77-0e20-b97b-6719881e1805
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

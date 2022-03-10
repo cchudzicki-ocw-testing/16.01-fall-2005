@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spr_sysprob2.pdf
 uid: 35cc8971-325b-9d79-1af2-b512f210b799
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

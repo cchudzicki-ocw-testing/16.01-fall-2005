@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: c15_ps06_sol.pdf
 uid: a580f904-4dba-6955-d8c7-a208592c9007
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

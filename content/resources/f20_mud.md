@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f20_mud.pdf
 uid: c67e2ced-727b-1f3c-4ce5-5666f7715370
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: linear_algebra.pdf
 uid: 6d6cf6d6-a9f3-98b7-1ad9-50c7fd3d0adf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

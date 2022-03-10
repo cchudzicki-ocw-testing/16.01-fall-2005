@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 5recitation.pdf
 uid: 34c13c08-f275-c54d-e644-7040ac5b2f35
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

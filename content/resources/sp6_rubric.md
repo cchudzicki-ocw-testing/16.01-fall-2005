@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp6_rubric.pdf
 uid: 9bcee725-9095-679b-6871-d2579aaca085
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

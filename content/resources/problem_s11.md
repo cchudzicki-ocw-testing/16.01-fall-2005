@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: problem_s11.pdf
 uid: 7c171b2c-6a95-3a78-21d4-0cc46bfa7a57
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

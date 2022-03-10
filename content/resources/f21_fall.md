@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f21_fall.pdf
 uid: 6a6b1a28-eb43-d704-d251-e1992fdb4a70
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

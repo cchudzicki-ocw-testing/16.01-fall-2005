@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spl5.pdf
 uid: 63294bf5-2bd6-f3e3-2199-774568c24c76
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: zm5snotes.pdf
 uid: 77f2104f-4285-26cf-3172-541dc589dcdf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

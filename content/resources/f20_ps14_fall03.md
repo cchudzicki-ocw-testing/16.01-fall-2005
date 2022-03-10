@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f20_ps14_fall03.pdf
 uid: cad0f4a1-6879-8a8b-8a1b-8e2a70789fc4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

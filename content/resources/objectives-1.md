@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: objectives.pdf
 uid: 7388aded-ca07-885c-4cc2-bfb6b98338de
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

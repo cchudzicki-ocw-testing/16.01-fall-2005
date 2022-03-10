@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Q6C_sol.pdf
 uid: 7479d1ce-5945-e5fc-da3c-c9470faff91c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

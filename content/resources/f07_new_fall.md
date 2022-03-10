@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f07_new_fall.pdf
 uid: e78030a1-9790-b44d-240e-17607de9f8c6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

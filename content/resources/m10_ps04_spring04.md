@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: m10_ps04_spring04.pdf
 uid: fae88838-ebc7-c185-9feb-da104a1ea23d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

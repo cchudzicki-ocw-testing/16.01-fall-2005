@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: ada_acctype_llist.pdf
 uid: cd4b8cf2-c68e-97eb-a8f9-2da8ed664f8d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

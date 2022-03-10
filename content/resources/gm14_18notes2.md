@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: gm14_18notes2.pdf
 uid: a6dca6c1-64b1-701c-7e66-6c3964a9c6c4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

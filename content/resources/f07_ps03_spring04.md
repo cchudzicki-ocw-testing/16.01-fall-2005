@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f07_ps03_spring04.pdf
 uid: 91de4606-c8c9-66de-791d-ec428d0050f0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

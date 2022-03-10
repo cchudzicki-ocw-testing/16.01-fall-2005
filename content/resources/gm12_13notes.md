@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: gm12_13notes.pdf
 uid: 3ae07fde-c6c3-066a-886e-16f3d45534cf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

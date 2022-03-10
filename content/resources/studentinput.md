@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: StudentInput.pdf
 uid: eff13d25-f512-9a34-69db-9d20dd68a978
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

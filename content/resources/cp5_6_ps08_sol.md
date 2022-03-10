@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: cp5_6_ps08_sol.pdf
 uid: 9a02f135-9b78-27d5-ea27-b38dc79727be
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp2lecture.pdf
 uid: cbe56ad5-047e-0b1c-e189-51031c1edb5d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

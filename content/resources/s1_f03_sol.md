@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s1_f03_sol.pdf
 uid: 8c757f87-39c1-5c03-b088-a2c09d46d8c9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

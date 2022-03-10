@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: cp13_14_ps11_sol.pdf
 uid: 8f80e7ce-ebe5-6ba0-490a-1af169ff8d16
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

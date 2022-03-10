@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: learningobjectives.pdf
 uid: f33a110e-fab5-e96d-d282-8eae5d62289c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

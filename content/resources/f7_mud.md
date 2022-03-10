@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f7_mud.pdf
 uid: 8daebd69-9e85-1c23-7fd4-6a288ad392df
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

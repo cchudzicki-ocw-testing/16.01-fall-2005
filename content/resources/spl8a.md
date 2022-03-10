@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spl8a.pdf
 uid: 67bd7190-47ba-bb21-59b4-d6460250d66d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

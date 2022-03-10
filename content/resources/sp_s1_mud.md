@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp_S1_mud.pdf
 uid: 085daa90-6851-1b84-e716-1e7343a8179a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

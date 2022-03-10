@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: q7p_sol.pdf
 uid: 2c8c3093-c9aa-2d15-8e3b-6c97c1a548c2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

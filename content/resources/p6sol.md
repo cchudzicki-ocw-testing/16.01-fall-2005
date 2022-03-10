@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: P6sol.pdf
 uid: c6c4237c-92ae-dc69-ace4-27291c44ec56
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

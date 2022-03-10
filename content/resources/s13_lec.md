@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s13_lec.pdf
 uid: 3f243378-a7b0-b1ae-1fd8-d51ff9990a68
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spring04_pset7.pdf
 uid: 297f5265-c1dd-9bcd-4142-1d977afbf42d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

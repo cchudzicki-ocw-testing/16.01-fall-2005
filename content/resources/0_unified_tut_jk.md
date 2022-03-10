@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 0_unified_tut_jk.pdf
 uid: 95a3c6e2-84f6-cff6-fbbc-bfe0270d12b1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: m19_ps14_sol.pdf
 uid: 0a83e201-3b80-03c5-f57d-32725816bcd8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

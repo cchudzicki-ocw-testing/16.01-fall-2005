@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: learningobject.pdf
 uid: b0ee1a21-e5cb-c1b4-8fa7-eba042817874
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

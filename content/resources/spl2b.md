@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spl2b.pdf
 uid: 341352ff-8008-8257-780a-7a20843b66fc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

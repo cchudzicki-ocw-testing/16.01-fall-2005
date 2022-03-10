@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sp9_report1.pdf
 uid: 9c957444-07b4-56c7-1cec-82f7d508d09f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

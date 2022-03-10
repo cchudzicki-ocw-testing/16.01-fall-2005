@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s14_cqs.pdf
 uid: fa746caf-30a1-f9a5-4ce1-9f8ef68605cf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

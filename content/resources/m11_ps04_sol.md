@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: m11_ps04_sol.pdf
 uid: a2dc9076-2a19-4507-49c0-406c1a063967
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: CFM_Engine.pdf
 uid: 8f579f0c-fbf1-7297-dda8-bb76c850a93f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

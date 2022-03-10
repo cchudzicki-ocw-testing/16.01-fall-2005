@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: q5s.pdf
 uid: 99fddaf3-0e81-f495-e844-3e7235f14056
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: course_facts_fall_2003.pdf
 uid: 07bc3ad3-f1e3-cf06-d789-bb9b06e9d5e3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

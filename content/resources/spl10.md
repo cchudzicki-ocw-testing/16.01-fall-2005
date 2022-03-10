@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: spl10.pdf
 uid: c5f687b0-7f1a-376a-5c78-5aab490c06ef
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

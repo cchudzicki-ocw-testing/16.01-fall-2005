@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: learning_objectives_fall_version.pdf
 uid: 46fe6205-2202-49a5-2442-0e57709aab87
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

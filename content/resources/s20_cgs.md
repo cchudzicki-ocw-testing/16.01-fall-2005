@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s20_cgs.pdf
 uid: 6f8ca3e7-926f-517f-ed12-f76e68776852
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

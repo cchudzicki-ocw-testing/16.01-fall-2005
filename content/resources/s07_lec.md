@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: s07_lec.pdf
 uid: 56da9d68-5f89-683d-34cd-04042d0b608f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

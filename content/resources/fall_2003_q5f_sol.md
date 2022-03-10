@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: fall_2003_q5f_sol.pdf
 uid: 6732285c-bd2a-4011-7b67-1edff6362fb5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

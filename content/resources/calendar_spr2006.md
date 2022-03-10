@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: calendar_spr2006.pdf
 uid: 0eb7e45d-8311-37b6-644d-a1e2f1a5c72e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

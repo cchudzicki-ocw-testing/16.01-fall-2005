@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 12recursive_func.pdf
 uid: 2a7d03ab-04ae-0118-dcf2-d212db1c6fac
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

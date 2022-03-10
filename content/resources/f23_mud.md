@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: f23_mud.pdf
 uid: f500b2be-3008-b09c-a670-097d53596d6c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

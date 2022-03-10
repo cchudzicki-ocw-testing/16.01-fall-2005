@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec_1_11_concept.pdf
 uid: 5fe1d508-0fdf-c7a6-1362-e498889356c8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

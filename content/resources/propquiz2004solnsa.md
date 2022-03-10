@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: PropQuiz2004solnsa.pdf
 uid: 56af7988-e969-ea2c-13e5-15d1083d0c97
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

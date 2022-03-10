@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: c16_ps06_sol.pdf
 uid: e3ad98bd-25e9-3ec7-28ce-f60dd9fadb26
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

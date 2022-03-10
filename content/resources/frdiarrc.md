@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: frdiarrc.pdf
 uid: 666380d4-02d8-21d2-660a-f9752fcb8bc4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

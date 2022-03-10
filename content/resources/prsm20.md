@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: prsm20.pdf
 uid: 624b8b87-5115-feaa-260f-69f2a1f0c72f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

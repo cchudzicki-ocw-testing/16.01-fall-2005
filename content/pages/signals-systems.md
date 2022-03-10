@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Signals and Systems
 uid: 85c1b0de-227d-e38d-9a55-dc7008c03de7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Instructor
