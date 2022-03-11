@@ -13,4 +13,6 @@ title: screen.ads
 uid: d0e6d128-28d9-b142-9f52-712db59fc70e
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

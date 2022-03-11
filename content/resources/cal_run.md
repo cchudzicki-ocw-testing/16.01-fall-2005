@@ -14,4 +14,6 @@ title: cal_run.xls
 uid: 80c12c1d-03a8-6d12-4e83-dc298fe365cc
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

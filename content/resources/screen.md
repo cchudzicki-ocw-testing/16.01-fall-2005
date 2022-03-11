@@ -13,4 +13,6 @@ title: screen.adb
 uid: 9f4804d0-482f-4467-40e8-6b246d9ea549
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

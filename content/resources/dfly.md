@@ -14,4 +14,6 @@ title: dfly.dat
 uid: 54af1853-c91c-fb09-4976-21ee82b4d17e
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
