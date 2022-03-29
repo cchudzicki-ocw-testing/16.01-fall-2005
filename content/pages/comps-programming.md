@@ -210,7 +210,7 @@ Solution C6 ({{% resource_link 54d8bccd-d79d-8bb5-9173-318bef285ab5 "PDF" %}})
 C7
 {{< tdclose >}}
 {{< tdopen >}}
-Machine Language (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link bad38792-bf94-5c7b-2dd0-592fd80e285a "PDF" %}})
+Machine Language ({{% resource_link bad38792-bf94-5c7b-2dd0-592fd80e285a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Machine Language Supplement ({{% resource_link 87885aa1-2753-853b-4f25-4fc24a35e504 "PDF" %}})  
@@ -596,7 +596,7 @@ Solution C4 ({{% resource_link a68c817f-3bd8-0f9a-734e-b5332852580d "PDF" %}})
 C5
 {{< tdclose >}}
 {{< tdopen >}}
-Ada: Access Types (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 391a7dbd-25b2-bb5c-8c1d-ff3ae9332459 "PDF" %}})
+Ada: Access Types ({{% resource_link 391a7dbd-25b2-bb5c-8c1d-ff3ae9332459 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Linked Lists Supplement
@@ -612,7 +612,7 @@ Brookshear. Sections 7.1, 7.3.
 {{< tdopen >}}
 Problem C5 ({{% resource_link 426a0732-5212-a8ab-57e9-69a4fdf40e91 "PDF" %}})  
   
-Solution C5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 9a02f135-9b78-27d5-ea27-b38dc79727be "PDF" %}})
+Solution C5 ({{% resource_link 9a02f135-9b78-27d5-ea27-b38dc79727be "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -621,7 +621,7 @@ Solution C5 (![This resource may not render correctly in a screen reader.](/imag
 C6
 {{< tdclose >}}
 {{< tdopen >}}
-Graphs (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 88421ff0-ef32-19e7-f918-3dd2fcf555c1 "PDF" %}})
+Graphs ({{% resource_link 88421ff0-ef32-19e7-f918-3dd2fcf555c1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Graph Theory Supplement
@@ -635,7 +635,7 @@ Graph Theory Supplement
 {{< tdopen >}}
 Problem C6 ({{% resource_link 426a0732-5212-a8ab-57e9-69a4fdf40e91 "PDF" %}})  
   
-Solution C6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 426a0732-5212-a8ab-57e9-69a4fdf40e91 "PDF" %}})
+Solution C6 ({{% resource_link 426a0732-5212-a8ab-57e9-69a4fdf40e91 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -644,7 +644,7 @@ Solution C6 (![This resource may not render correctly in a screen reader.](/imag
 C7
 {{< tdclose >}}
 {{< tdopen >}}
-Trees (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 2ee16347-df7a-1ef7-267b-817c27e4e61b "PDF" %}})
+Trees ({{% resource_link 2ee16347-df7a-1ef7-267b-817c27e4e61b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -667,7 +667,7 @@ Solution C7 ({{% resource_link b3aa8e1f-3ea0-bef4-3c29-eb1f7cbd9d09 "PDF" %}})
 C8
 {{< tdclose >}}
 {{< tdopen >}}
-More Trees (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 23510d24-455f-42f4-ebf1-c893f2a1b56b "PDF" %}})
+More Trees ({{% resource_link 23510d24-455f-42f4-ebf1-c893f2a1b56b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -713,7 +713,7 @@ Solution C9 ({{% resource_link b3aa8e1f-3ea0-bef4-3c29-eb1f7cbd9d09 "PDF" %}})
 C10
 {{< tdclose >}}
 {{< tdopen >}}
-Algorithm Analysis: Data Structures, Search and Sort Algorithms (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 2ac6f6a3-de8b-29fe-563b-9e47afa3d995 "PDF" %}})
+Algorithm Analysis: Data Structures, Search and Sort Algorithms ({{% resource_link 2ac6f6a3-de8b-29fe-563b-9e47afa3d995 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -736,7 +736,7 @@ Solution C10 ({{% resource_link b3aa8e1f-3ea0-bef4-3c29-eb1f7cbd9d09 "PDF" %}})
 C11
 {{< tdclose >}}
 {{< tdopen >}}
-Algorithm Analysis: Reasonable vs. Unreasonable Algorithms, Complexity (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 3ad763b7-b19e-1dba-b8a0-2122926b2d81 "PDF" %}})
+Algorithm Analysis: Reasonable vs. Unreasonable Algorithms, Complexity ({{% resource_link 3ad763b7-b19e-1dba-b8a0-2122926b2d81 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -782,7 +782,7 @@ Solution C12 ({{% resource_link 8a096ae5-6c28-38a8-d87a-80addb4e5fa9 "PDF" %}})
 C13
 {{< tdclose >}}
 {{< tdopen >}}
-Software Engineering and Testing (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 37054a02-2d9d-2bae-5462-e65bd2c76f3b "PDF" %}})
+Software Engineering and Testing ({{% resource_link 37054a02-2d9d-2bae-5462-e65bd2c76f3b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -863,9 +863,9 @@ Introduction to Logic ({{% resource_link 2c2b8be1-3dbc-bc97-29e0-c30e168ef2b2 "P
 Brookshear. Sections 1.1, 5.7.
 {{< tdclose >}}
 {{< tdopen >}}
-Problem C16 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) {{% resource_link 4c9821e2-1a3d-8b94-7cab-53c52d2fa338 "PDF" %}})  
+Problem C16 ( {{% resource_link 4c9821e2-1a3d-8b94-7cab-53c52d2fa338 "PDF" %}})  
   
-Solution C16 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 3619fb4a-c134-261c-0243-78d60ea89b7a "PDF" %}})
+Solution C16 ({{% resource_link 3619fb4a-c134-261c-0243-78d60ea89b7a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -1034,7 +1034,7 @@ Recitation 2 ({{% resource_link 3557afd4-8719-577f-154f-5fdd5913f62c "PDF" %}})
 
 Recitation 1 ({{% resource_link aff8a7a1-61c9-440b-b067-0b0448859613 "PDF" %}})
 
-Recitation 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1dd1d28e-c246-6a4b-6fa9-04db959190a1 "PDF" %}})
+Recitation 2 ({{% resource_link 1dd1d28e-c246-6a4b-6fa9-04db959190a1 "PDF" %}})
 
 Recitation 3 ({{% resource_link 126fc643-6f1e-e6d2-26ad-43760555fe67 "PDF" %}}); Mud ({{% resource_link 9a05172a-c00e-0f35-cbf7-0e2fac070b8d "PDF" %}})
 

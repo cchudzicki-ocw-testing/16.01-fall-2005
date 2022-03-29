@@ -106,7 +106,7 @@ The Language of Engineering ({{% resource_link 7308730d-d597-147e-ffd8-6103d795d
 {{< tdopen >}}
 Problem U2 ({{% resource_link 038c1339-4267-3f54-d74d-648e4ddbcf2e "PDF" %}})  
   
-Solution U2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 4f872fcd-09e3-877d-dba6-6502c16a6bdc "PDF" %}})
+Solution U2 ({{% resource_link 4f872fcd-09e3-877d-dba6-6502c16a6bdc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +126,7 @@ The Language of Engineering (cont.)
 {{< tdopen >}}
 Problem U3 ({{% resource_link 04b3ffdc-36d4-6cce-c7ff-6b477228ced2 "PDF" %}})  
   
-Solution U3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link b74d6459-02e5-622f-60d3-7dbf58d99094 "PDF" %}})
+Solution U3 ({{% resource_link b74d6459-02e5-622f-60d3-7dbf58d99094 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

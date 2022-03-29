@@ -139,7 +139,7 @@ Glider Fly-Off
 S/L4
 {{< tdclose >}}
 {{< tdopen >}}
-Water Rocket Lab 1: Water Bottle Rocket Performance Analysis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a157a112-5a8d-9124-4769-504d630eedcf "PDF" %}})
+Water Rocket Lab 1: Water Bottle Rocket Performance Analysis ({{% resource_link a157a112-5a8d-9124-4769-504d630eedcf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Design "Cheat Sheet" ({{% resource_link d7a8ce4a-5403-bd14-de70-339985b32445 "PDF" %}})
@@ -346,13 +346,13 @@ S/L4
 Engineering Education and Baseline Assessment ({{% resource_link 30484fa7-4149-f87b-2e04-a59602056a90 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 5f4354a3-d2f6-a552-115c-0c35d1cb5ed5 "PDF" %}})  
+Assignment Notes ({{% resource_link 5f4354a3-d2f6-a552-115c-0c35d1cb5ed5 "PDF" %}})  
   
-RC Design (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link cadbb3d1-7135-9f26-8d67-eda9ee630146 "PDF" %}})  
+RC Design ({{% resource_link cadbb3d1-7135-9f26-8d67-eda9ee630146 "PDF" %}})  
   
 Wright Brothers Wind Tunnel Test ({{% resource_link 80c12c1d-03a8-6d12-4e83-dc298fe365cc "XLS" %}})  
   
-Dragonfly Baseline Performance Assessment (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 98581935-b535-a8d8-feb3-ba2f2d033a01 "PDF" %}})
+Dragonfly Baseline Performance Assessment ({{% resource_link 98581935-b535-a8d8-feb3-ba2f2d033a01 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  

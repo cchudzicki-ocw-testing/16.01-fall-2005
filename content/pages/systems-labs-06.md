@@ -113,7 +113,7 @@ S/L6
 Rover Project Report ({{% resource_link 73258bf2-b839-1a43-7949-f76f4ecf423c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Systems Problem 6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 7cd09861-266b-06a8-501f-dbd9faa23d4a "PDF" %}})
+Systems Problem 6 ({{% resource_link 7cd09861-266b-06a8-501f-dbd9faa23d4a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +204,7 @@ Systems Problem 5 ({{% resource_link ffbcf3fa-ffad-503a-49dc-f71cbba47c4f "PDF" 
 S/L6-S/L7
 {{< tdclose >}}
 {{< tdopen >}}
-Wing Optimization ({{% resource_link 32c9dff9-69ee-8cbf-f94e-b44d1f2cd898 "PDF 1" %}}) ({{% resource_link 844abb8a-c7b9-e5a2-afe1-f51f32eb7772 "PDF 2" %}}) ({{% resource_link 09d62c2f-dbbc-932a-c0d3-50b4849551e5 "PDF 3" %}}) ({{% resource_link 110c0298-96e3-d6d9-7bb5-25968970109f "PDF 4" %}}) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) {{% resource_link c64a3777-089f-029d-d985-9b0d40d0623a "ZIP" %}})(The ZIP file contains: re040k.pdf, re050k.pdf, re060k.pdf, re080k.pdf, re100k.pdf, re120k.pdf, ue07.pdf, ue08.pdf, ue09.pdf, ue10.pdf, ue11.pdf, ue12.pdf.)
+Wing Optimization ({{% resource_link 32c9dff9-69ee-8cbf-f94e-b44d1f2cd898 "PDF 1" %}}) ({{% resource_link 844abb8a-c7b9-e5a2-afe1-f51f32eb7772 "PDF 2" %}}) ({{% resource_link 09d62c2f-dbbc-932a-c0d3-50b4849551e5 "PDF 3" %}}) ({{% resource_link 110c0298-96e3-d6d9-7bb5-25968970109f "PDF 4" %}}) ( {{% resource_link c64a3777-089f-029d-d985-9b0d40d0623a "ZIP" %}})(The ZIP file contains: re040k.pdf, re050k.pdf, re060k.pdf, re080k.pdf, re100k.pdf, re120k.pdf, ue07.pdf, ue08.pdf, ue09.pdf, ue10.pdf, ue11.pdf, ue12.pdf.)
 {{< tdclose >}}
 {{< tdopen >}}
 Systems Problem 6 ({{% resource_link 7cd09861-266b-06a8-501f-dbd9faa23d4a "PDF" %}})  

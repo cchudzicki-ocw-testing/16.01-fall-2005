@@ -113,7 +113,7 @@ Q2 ({{% resource_link 20f201d8-db51-4539-9940-aff5218c2fc1 "PDF" %}})
 {{< tdopen >}}
 Problem T2 ({{% resource_link 4d6d240a-e26b-8b61-a19b-c04968532a06 "PDF" %}})  
   
-Solution T2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 308330f1-cf22-8e36-4495-bc289deea299 "PDF" %}})
+Solution T2 ({{% resource_link 308330f1-cf22-8e36-4495-bc289deea299 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +140,7 @@ Q2 ({{% resource_link c5f9c4d2-7ec6-083d-cb82-083d2cb5b847 "PDF" %}})
 {{< tdopen >}}
 Problem T3 ({{% resource_link 49ce7602-5d5d-0e46-964d-26f5c7ca3011 "PDF" %}})  
   
-Solution T3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link d39b84a3-1f68-daec-5803-9f9ff69e1529 "PDF" %}})
+Solution T3 ({{% resource_link d39b84a3-1f68-daec-5803-9f9ff69e1529 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -167,7 +167,7 @@ Q2 ({{% resource_link 4f50283c-0a66-9133-ea6d-33a34690a89a "PDF" %}})
 {{< tdopen >}}
 Problem T4 ({{% resource_link 58af7e28-a2df-9da8-a922-0a26a18259dd "PDF" %}})  
   
-Solution T4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f040dca7-93cb-eb40-49ae-577a91ac6984 "PDF" %}})
+Solution T4 ({{% resource_link f040dca7-93cb-eb40-49ae-577a91ac6984 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -221,7 +221,7 @@ Q1 ({{% resource_link c7e2b98e-59e1-aa9b-f121-8dfda97ab8ce "PDF" %}})
 {{< tdopen >}}
 Problem T6 ({{% resource_link 635f1af7-c50d-65ec-16ad-6124d0415c26 "PDF" %}})  
   
-Solution T6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link d0c10bab-f2df-74ef-3d00-bc9c929bdeff "PDF" %}})
+Solution T6 ({{% resource_link d0c10bab-f2df-74ef-3d00-bc9c929bdeff "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +246,7 @@ Q1 ({{% resource_link 23daee75-3c42-b015-7196-892601edf787 "PDF" %}})
 {{< tdopen >}}
 Problem T7 ({{% resource_link 936b0bc0-2782-3102-d2f3-d06c45c4e9f8 "PDF" %}})  
   
-Solution T7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link de4cf44d-ae07-6504-ee52-50f22787c309 "PDF" %}})
+Solution T7 ({{% resource_link de4cf44d-ae07-6504-ee52-50f22787c309 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +273,7 @@ Q2 ({{% resource_link 679836a4-fd18-dcf2-e462-030303383b29 "PDF" %}})
 {{< tdopen >}}
 Problem T8 ({{% resource_link a0695009-ce40-0abf-121b-ae43075dd2b3 "PDF" %}})  
   
-Solution T8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 45da751a-90df-06f3-a671-df349ebd906d "PDF" %}})
+Solution T8 ({{% resource_link 45da751a-90df-06f3-a671-df349ebd906d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -302,7 +302,7 @@ Q3 ({{% resource_link 066d5961-cffe-c14b-831c-25ca96551774 "PDF" %}})
 {{< tdopen >}}
 Problem T9 ({{% resource_link ad9c32f7-2285-8f1a-6f02-943dc48bc094 "PDF" %}})  
   
-Solution T9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 107a7382-e795-f2a9-692d-b40bb596fa8d "PDF" %}})
+Solution T9 ({{% resource_link 107a7382-e795-f2a9-692d-b40bb596fa8d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -331,7 +331,7 @@ Q3 ({{% resource_link 0ab8550a-169e-8eef-08f9-d88250307bcb "PDF" %}})
 {{< tdopen >}}
 Problem T10 ({{% resource_link e0d06fbf-de5e-c62d-d282-be756a962e5c "PDF" %}})  
   
-Solution T10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 00c2f828-b23e-fc18-95a8-42d10de0c224 "PDF" %}})
+Solution T10 ({{% resource_link 00c2f828-b23e-fc18-95a8-42d10de0c224 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -362,7 +362,7 @@ Q4 ({{% resource_link 42eabb83-05e9-eca9-654a-3b4320fdc7dc "PDF" %}})
 {{< tdopen >}}
 Problem T11 ({{% resource_link 5702fbe0-999f-2b95-7152-7c1a73e2b55c "PDF" %}})  
   
-Solution T11 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 940a1e86-70ee-b132-b331-df1b717bc976 "PDF" %}})
+Solution T11 ({{% resource_link 940a1e86-70ee-b132-b331-df1b717bc976 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -387,7 +387,7 @@ Entropy
 {{< tdopen >}}
 Problem T12 ({{% resource_link b738fc72-89d1-0b53-2dea-59605fe4d977 "PDF" %}})  
   
-Solution T12 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 22c42221-60ac-f4a2-e877-f2cccac11f51 "PDF" %}})
+Solution T12 ({{% resource_link 22c42221-60ac-f4a2-e877-f2cccac11f51 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -445,12 +445,12 @@ Q2 ({{% resource_link b950176f-de5f-254b-d269-5d134867bec0 "PDF" %}})
 {{< tdopen >}}
 [Introduction to Propulsion](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion1/UnifiedPropulsion1.htm) and [Integral Momentum Theorem](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion2/UnifiedPropulsion2.htm)  
   
-CFM56-3 Diagrams (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 8f579f0c-fbf1-7297-dda8-bb76c850a93f "PDF" %}})
+CFM56-3 Diagrams ({{% resource_link 8f579f0c-fbf1-7297-dda8-bb76c850a93f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Problem P1 ({{% resource_link a4f871d5-7080-7e23-9075-171815eda4bb "PDF" %}})  
   
-Solution P1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link edde99d2-b3a5-60ff-ec60-1b0d4fd58dee "PDF" %}})
+Solution P1 ({{% resource_link edde99d2-b3a5-60ff-ec60-1b0d4fd58dee "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -475,7 +475,7 @@ Q1 ({{% resource_link 155cadde-b8fb-6668-54fc-1f7aa379002c "PDF" %}})
 {{< tdopen >}}
 Problem P2 ({{% resource_link 18b9a5be-7b81-2da7-b107-9d93b517acfd "PDF" %}})  
   
-Solution P2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1693e5ff-ce81-d296-cbb1-82f0324a92e2 "PDF" %}})
+Solution P2 ({{% resource_link 1693e5ff-ce81-d296-cbb1-82f0324a92e2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -504,7 +504,7 @@ P3 Lecture Slides ({{% resource_link 100f0263-37ca-f8f3-158e-8caf456cc5ed "PDF" 
 {{< tdopen >}}
 Problem P3 ({{% resource_link 591ed351-59eb-d54a-1afb-3a0e0bcf093c "PDF" %}})  
   
-Solution P3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 4ee5c2ef-b41a-f39c-1a63-66fd83274fe9 "PDF" %}})
+Solution P3 ({{% resource_link 4ee5c2ef-b41a-f39c-1a63-66fd83274fe9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -531,7 +531,7 @@ Q2 ({{% resource_link 700bf8e8-0bba-b3d4-3510-4fa4bbad7024 "PDF" %}})
 {{< tdopen >}}
 Problem P4 ({{% resource_link cd41e2f3-c9dc-d25b-d511-a957563b699e "PDF" %}})  
   
-Solution P4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 4bb8218a-a715-de75-0938-2db6a9b5c4c9 "PDF" %}})
+Solution P4 ({{% resource_link 4bb8218a-a715-de75-0938-2db6a9b5c4c9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -558,7 +558,7 @@ Q2 ({{% resource_link 96640157-faa3-dda2-84c0-bba42ccd2417 "PDF" %}})
 {{< tdopen >}}
 Problem P5 ({{% resource_link fba9e2df-0643-1ed5-dbc9-de7993da1d88 "PDF" %}})  
   
-Solution P5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 8cb665e6-0f06-d8c5-c7ec-87fe888569ab "PDF" %}})
+Solution P5 ({{% resource_link 8cb665e6-0f06-d8c5-c7ec-87fe888569ab "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -582,7 +582,7 @@ Q1 ({{% resource_link 8ce29b75-9e58-5af6-30d8-671ebe7e8277 "PDF" %}})
 {{< tdopen >}}
 Problem P6 ({{% resource_link d0412b42-7253-f11b-7446-3a43db92f0a6 "PDF" %}})  
   
-Solution P6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link c6c4237c-92ae-dc69-ace4-27291c44ec56 "PDF" %}})
+Solution P6 ({{% resource_link c6c4237c-92ae-dc69-ace4-27291c44ec56 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -608,7 +608,7 @@ Q2 ({{% resource_link 259c2803-e5b3-609b-42ae-fcde914118fe "PDF" %}})
 {{< tdopen >}}
 Problem P7 ({{% resource_link 4f4623c7-fa56-dc2d-3f80-d7158522cc8b "PDF" %}})  
   
-Solution P7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 96b296a7-3ad8-9487-2e89-b00edf5a9b2d "PDF" %}})
+Solution P7 ({{% resource_link 96b296a7-3ad8-9487-2e89-b00edf5a9b2d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -634,7 +634,7 @@ Q2 ({{% resource_link 551418c0-13d2-0ae3-eaaf-e2ced2bb9cf5 "PDF" %}})
 {{< tdopen >}}
 Problem P8 ({{% resource_link d98a2938-5511-7b0e-4863-73bd92fb9619 "PDF" %}})  
   
-Solution P8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e57bfc30-0ce2-948a-6950-83ce20ff3c67 "PDF" %}})
+Solution P8 ({{% resource_link e57bfc30-0ce2-948a-6950-83ce20ff3c67 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -661,7 +661,7 @@ Velocity Triangle Handouts ({{% resource_link bb4791ac-f83c-9c0e-4bca-0d6493cebf
 {{< tdopen >}}
 Problem P9 ({{% resource_link 38fc4ef9-a614-c006-ac1e-63781aee8bf7 "PDF" %}})  
   
-Solution P9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link b5669643-0930-351a-e95a-0966f79e1151 "PDF" %}})
+Solution P9 ({{% resource_link b5669643-0930-351a-e95a-0966f79e1151 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

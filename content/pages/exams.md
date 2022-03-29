@@ -83,7 +83,7 @@ Quiz 3: Signals and Systems
 S1 - S14
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 39ee0f81-e638-6af9-331a-317f406440d2 "PDF" %}})
+({{% resource_link 39ee0f81-e638-6af9-331a-317f406440d2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +95,7 @@ Quiz 4: Materials and Structures
 M1 - M11
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link c4ae163c-63b3-9fc7-09b5-e8d91ece0c5f "PDF" %}})
+({{% resource_link c4ae163c-63b3-9fc7-09b5-e8d91ece0c5f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +131,7 @@ Quiz 7: Materials and Structures
 M12 - M25
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 006447ee-b5c5-290b-cdc9-9cb62adcc376 "PDF" %}})
+({{% resource_link 006447ee-b5c5-290b-cdc9-9cb62adcc376 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,13 +158,13 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Quiz 1: Materials and Structures (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 4861617b-9311-dc7b-a3ce-c6de915e4bb9 "PDF" %}})
+Quiz 1: Materials and Structures ({{% resource_link 4861617b-9311-dc7b-a3ce-c6de915e4bb9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 M1 - M9
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 39c9ad4e-63ab-50bd-5fac-d66240fff4a9 "PDF" %}})
+({{% resource_link 39c9ad4e-63ab-50bd-5fac-d66240fff4a9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +176,7 @@ Quiz 2: Fluid Mechanics ({{% resource_link 97b7295e-75b9-3c3f-a5b5-6b10006bb8b3 
 F1 - F14
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1d29a0d5-0e5f-1bf5-d5b8-59f201373e72 "PDF" %}})
+({{% resource_link 1d29a0d5-0e5f-1bf5-d5b8-59f201373e72 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -188,7 +188,7 @@ Quiz 3: Materials and Structures
 M10 - M20
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link c78ef7a7-e1d4-3262-7983-1182deecd1b8 "PDF" %}})
+({{% resource_link c78ef7a7-e1d4-3262-7983-1182deecd1b8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,7 +200,7 @@ Quiz 4: Fluid Mechanics ({{% resource_link 36ffb584-62b8-75b2-f232-3dad758b6dd8 
 F15 - F21
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f9fc10d8-4667-50c6-2243-6ed27ada3e78 "PDF" %}})
+({{% resource_link f9fc10d8-4667-50c6-2243-6ed27ada3e78 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -212,7 +212,7 @@ Quiz 5: Signals and Systems ({{% resource_link 99fddaf3-0e81-f495-e844-3e7235f14
 S1 - S12
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link c4db13fd-9e3c-bdbc-91f0-9186e60ad838 "PDF" %}})
+({{% resource_link c4db13fd-9e3c-bdbc-91f0-9186e60ad838 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

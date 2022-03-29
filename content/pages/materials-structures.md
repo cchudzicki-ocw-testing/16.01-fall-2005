@@ -98,7 +98,7 @@ Crandall, Dahl, and Lardner. Sections 1.1-1.3.
 {{< tdopen >}}
 Problem M1 ({{% resource_link 95f0af57-cb1d-62fb-96da-7ca89d34117e "PDF" %}})  
   
-Solution M1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 2b95cb34-2d0e-c74d-65c1-fa6ea96c8cc6 "PDF" %}})
+Solution M1 ({{% resource_link 2b95cb34-2d0e-c74d-65c1-fa6ea96c8cc6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +107,7 @@ Solution M1 (![This resource may not render correctly in a screen reader.](/imag
 M2
 {{< tdclose >}}
 {{< tdopen >}}
-Equilibrium of a Particle, System of Particles (Free-body Diagram) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link bf9d90c6-bff1-31ec-3790-206cbe3594b2 "PDF" %}})
+Equilibrium of a Particle, System of Particles (Free-body Diagram) ({{% resource_link bf9d90c6-bff1-31ec-3790-206cbe3594b2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 7a9d1f25-252e-b428-34aa-d4550f4f2dc5 "PDF" %}})
@@ -121,7 +121,7 @@ Crandall, Dahl, and Lardner. Sections 1.4-1.6.
 {{< tdopen >}}
 Problem M2 ({{% resource_link 1f57525a-2ba9-258f-d318-2baa92b4cc53 "PDF" %}})  
   
-Solution M2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a6bc6a02-59ae-3fbb-8df0-aebd51137b71 "PDF" %}})
+Solution M2 ({{% resource_link a6bc6a02-59ae-3fbb-8df0-aebd51137b71 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +144,7 @@ Crandall, Dahl, and Lardner. Sections 1.6-1.7.
 {{< tdopen >}}
 Problem M3 ({{% resource_link 3c8c3530-ba80-408c-bcad-2025aadf1f58 "PDF" %}})  
   
-Solution M3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 8b5ba571-706a-b145-5c3f-c07d01a99136 "PDF" %}})
+Solution M3 ({{% resource_link 8b5ba571-706a-b145-5c3f-c07d01a99136 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +156,7 @@ M4
 Support Reactions, Free-body Diagrams, Static Determinance, Other Situations, Determinate Systems ({{% resource_link 207bd6f4-5abb-742b-d4f5-57a3900fc89e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 295d59ea-8e3a-efec-5902-6640f8e6cd12 "PDF" %}})
+({{% resource_link 295d59ea-8e3a-efec-5902-6640f8e6cd12 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 1dbdd16f-21e9-b441-d265-9175380cdc5a "PDF" %}})
@@ -167,7 +167,7 @@ Crandall, Dahl, and Lardner. Sections 1.8-1.9.
 {{< tdopen >}}
 Problem M4 ({{% resource_link b519e2e4-d307-e080-b06d-bf96f611c4fa "PDF" %}})  
   
-Solution M4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 3a9631d3-8cb5-d015-be0b-ac66ac8ab320 "PDF" %}})
+Solution M4 ({{% resource_link 3a9631d3-8cb5-d015-be0b-ac66ac8ab320 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -179,7 +179,7 @@ M5
 Support Reactions, Free-body Diagrams, Static Determinance, Other Situations, Determinate Systems (cont.) ({{% resource_link 77f2104f-4285-26cf-3172-541dc589dcdf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 87cf3cfe-7d95-739f-3414-b0f7398da53c "PDF" %}})
+({{% resource_link 87cf3cfe-7d95-739f-3414-b0f7398da53c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 8aa38fe0-57fd-7a3f-d8ce-1ebf6794e091 "PDF" %}})
@@ -190,7 +190,7 @@ Crandall, Dahl, and Lardner. Sections 1.8-1.9.
 {{< tdopen >}}
 Problem M5 ({{% resource_link ba60092e-faec-f5c5-8921-a6321bc0f549 "PDF" %}})  
   
-Solution M5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 386f8de4-2e07-a166-1ffc-7d48da61490b "PDF" %}})
+Solution M5 ({{% resource_link 386f8de4-2e07-a166-1ffc-7d48da61490b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +213,7 @@ Crandall, Dahl, and Lardner. Section 1.9.
 {{< tdopen >}}
 Problem M6 ({{% resource_link cb4dae19-da3b-c9eb-8316-1a0901798514 "PDF" %}})  
   
-Solution M6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 4730f869-40ab-478b-2796-21e5476d4523 "PDF" %}})
+Solution M6 ({{% resource_link 4730f869-40ab-478b-2796-21e5476d4523 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,7 +236,7 @@ Crandall, Dahl, and Lardner. Section 1.9.
 {{< tdopen >}}
 Problem M7 ({{% resource_link 6ff4d3c0-a1a0-5ac6-bd14-797d513ae8f4 "PDF" %}})  
   
-Solution M7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 94627324-191e-23c3-941e-54870e220d66 "PDF" %}})
+Solution M7 ({{% resource_link 94627324-191e-23c3-941e-54870e220d66 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -245,10 +245,10 @@ Solution M7 (![This resource may not render correctly in a screen reader.](/imag
 M8
 {{< tdclose >}}
 {{< tdopen >}}
-Statically Indeterminate Systems: Method of Analysis, 3 Great Principles, Examples; Summary (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 01cc8bc2-ab81-91c3-fde9-69350611bb71 "PDF" %}})
+Statically Indeterminate Systems: Method of Analysis, 3 Great Principles, Examples; Summary ({{% resource_link 01cc8bc2-ab81-91c3-fde9-69350611bb71 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 7448cfb9-7964-eb01-2c63-9ed0e1ca9099 "PDF" %}})
+({{% resource_link 7448cfb9-7964-eb01-2c63-9ed0e1ca9099 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link df4b2f07-6c66-ba89-e883-43769cf50542 "PDF" %}})
@@ -259,7 +259,7 @@ Crandall, Dahl, and Lardner. Sections 1.10-1.11, 2.1, 2.4, and 2.7.
 {{< tdopen >}}
 Problem M8 ({{% resource_link eac7f7bc-e0fb-7e6b-b1cc-a9a8b715edd7 "PDF" %}})  
   
-Solution M8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 6346b242-c1cd-d501-3577-c553c4b085dd "PDF" %}})
+Solution M8 ({{% resource_link 6346b242-c1cd-d501-3577-c553c4b085dd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -282,7 +282,7 @@ Crandall, Dahl, and Lardner. Sections 1.10-1.11, 2.1, 2.4, and 2.7.
 {{< tdopen >}}
 Problem M9 ({{% resource_link 486baef6-d35b-4c30-cc47-35608640073c "PDF" %}})  
   
-Solution M9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a87ae06c-e572-d2df-158a-03b904bdba94 "PDF" %}})
+Solution M9 ({{% resource_link a87ae06c-e572-d2df-158a-03b904bdba94 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -297,7 +297,7 @@ Solution M9 (![This resource may not render correctly in a screen reader.](/imag
 M10
 {{< tdclose >}}
 {{< tdopen >}}
-Indicial Notation, Rotation of Coordinates (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 9ae93240-f611-81e4-64a8-3556f4c11f09 "PDF" %}})
+Indicial Notation, Rotation of Coordinates ({{% resource_link 9ae93240-f611-81e4-64a8-3556f4c11f09 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link d0cbf88d-4ff4-439c-e4e6-c64552cf4565 "PDF" %}})
@@ -311,7 +311,7 @@ Crandall, Dahl, and Lardner. Section 4.1.
 {{< tdopen >}}
 Problem M10 ({{% resource_link 542ace8f-b8e1-4bb5-d4ff-fb6225089e6d "PDF" %}})  
   
-Solution M10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1c325992-839a-e63a-b415-088259ef5ee6 "PDF" %}})
+Solution M10 ({{% resource_link 1c325992-839a-e63a-b415-088259ef5ee6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -323,10 +323,10 @@ M11
 Definition of Stress, Extensional and Shear Stress, Notation, Plane Stress, Stress Equilibrium
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a8400d18-7c51-f73a-a961-c7b145028134 "PDF" %}})
+({{% resource_link a8400d18-7c51-f73a-a961-c7b145028134 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a8400d18-7c51-f73a-a961-c7b145028134 "PDF" %}})
+({{% resource_link a8400d18-7c51-f73a-a961-c7b145028134 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Crandall, Dahl, and Lardner. Sections 4.2-4.4.
@@ -341,7 +341,7 @@ Problem M11 ({{% resource_link 4d52751c-193d-0568-bd5e-6ad38ec1fa8f "PDF" %}})
 M12
 {{< tdclose >}}
 {{< tdopen >}}
-Stress Transformation and Mohr's Circle, Principal Stresses, Extreme Shear Stress(es) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 9de32a2a-7c30-6515-f1ed-055fa690c4fc "PDF" %}})
+Stress Transformation and Mohr's Circle, Principal Stresses, Extreme Shear Stress(es) ({{% resource_link 9de32a2a-7c30-6515-f1ed-055fa690c4fc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -355,7 +355,7 @@ Crandall, Dahl, and Lardner. Sections 4.5-4.7.
 {{< tdopen >}}
 Problem M12 ({{% resource_link 68dec651-14b7-b369-6f3c-82b841a57cf3 "PDF" %}})  
   
-Solution M12 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 7de3cc8f-06c0-d818-7722-662f38a128d6 "PDF" %}})
+Solution M12 ({{% resource_link 7de3cc8f-06c0-d818-7722-662f38a128d6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -378,7 +378,7 @@ Quiz Discussion
 {{< tdopen >}}
 Problem M13 ({{% resource_link 924d958c-9986-3602-44e5-c46a7661106f "PDF" %}})  
   
-Solution M13 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f00789f3-3ae6-ffe8-b127-2eaf6b283002 "PDF" %}})
+Solution M13 ({{% resource_link f00789f3-3ae6-ffe8-b127-2eaf6b283002 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -401,7 +401,7 @@ Crandall, Dahl, and Lardner. Sections 4.8-4.10.
 {{< tdopen >}}
 Problem M14 ({{% resource_link d528fe35-4b46-2e4e-070b-2bcd468d8ce9 "PDF" %}})  
   
-Solution M14 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 28898256-c1b8-ccca-e5de-680f4bb33f9d "PDF" %}})
+Solution M14 ({{% resource_link 28898256-c1b8-ccca-e5de-680f4bb33f9d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -413,7 +413,7 @@ M15
 Transformation of Strain, Mohr's Circle for Strain, Principal Strains, Extreme Shear Strains, Summary, Indicial Notation Revisited ({{% resource_link 88137d7c-8cdd-0f24-5c9e-e63fe5481c73 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a45317d7-a626-07fe-bae4-cd276b696a81 "PDF" %}})
+({{% resource_link a45317d7-a626-07fe-bae4-cd276b696a81 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link f7a0be14-cd57-2152-5f60-b4ee21cc8070 "PDF" %}})
@@ -424,7 +424,7 @@ Crandall, Dahl, and Lardner. Sections 4.11-4.13, (4.14), and 4.15.
 {{< tdopen >}}
 Problem M15 ({{% resource_link 421a9524-bb45-ea81-5c8a-07a3ea8a76be "PDF" %}})  
   
-Solution M15 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 36111e03-ff43-24d4-7f7b-19830b8104dc "PDF" %}})
+Solution M15 ({{% resource_link 36111e03-ff43-24d4-7f7b-19830b8104dc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -436,10 +436,10 @@ M16
 Uniaxial Stress-Strain ({{% resource_link 88137d7c-8cdd-0f24-5c9e-e63fe5481c73 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 11913b42-b3e0-4710-accc-19ee612a62af "PDF" %}})
+({{% resource_link 11913b42-b3e0-4710-accc-19ee612a62af "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link d3237b09-12e8-e4a4-e3c7-fee3065ba6e5 "PDF" %}})
+({{% resource_link d3237b09-12e8-e4a4-e3c7-fee3065ba6e5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Crandall, Dahl, and Lardner. Sections 2.3, 5.1-5.2.
@@ -447,7 +447,7 @@ Crandall, Dahl, and Lardner. Sections 2.3, 5.1-5.2.
 {{< tdopen >}}
 Problem M16 ({{% resource_link 6134c5cf-d9e5-197d-4f19-ae2ef919e205 "PDF" %}})  
   
-Solution M16 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 112724dc-54e8-6b83-1f5f-31d5b420ab20 "PDF" %}})
+Solution M16 ({{% resource_link 112724dc-54e8-6b83-1f5f-31d5b420ab20 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -476,7 +476,7 @@ Ashby, and Jones. Chapters 1-2.
 {{< tdopen >}}
 Problem M17 ({{% resource_link d3db12f5-dba4-f313-e708-1d4bc6402406 "PDF" %}})  
   
-Solution M17 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 0dcf9a3d-2def-3b5a-5f2f-d8245623088a "PDF" %}})
+Solution M17 ({{% resource_link 0dcf9a3d-2def-3b5a-5f2f-d8245623088a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -501,7 +501,7 @@ Ashby, and Jones. Chapter 3.
 {{< tdopen >}}
 Problem M18 ({{% resource_link abe20323-078b-e3be-cc04-8537e78b422c "PDF" %}})  
   
-Solution M18 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a2c3f3b1-8ad4-016c-6a19-8f6287803cd8 "PDF" %}})
+Solution M18 ({{% resource_link a2c3f3b1-8ad4-016c-6a19-8f6287803cd8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -524,7 +524,7 @@ Ashby, and Jones. Chapters 4-5.
 {{< tdopen >}}
 Problem M19 ({{% resource_link bffcbbe6-7b1a-4777-3f09-f156f57f9b29 "PDF" %}})  
   
-Solution M19 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 0a83e201-3b80-03c5-f57d-32725816bcd8 "PDF" %}})
+Solution M19 ({{% resource_link 0a83e201-3b80-03c5-f57d-32725816bcd8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -549,7 +549,7 @@ Ashby, and Jones. Chapter 6.
 {{< tdopen >}}
 Problem M20 ({{% resource_link 45268747-e343-6e02-1e15-4db0fd6ef453 "PDF" %}})  
   
-Solution M20 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 77bab122-9b78-75cb-e36f-36b7cd9362db "PDF" %}})
+Solution M20 ({{% resource_link 77bab122-9b78-75cb-e36f-36b7cd9362db "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -572,7 +572,7 @@ Ashby, and Jones. Chapter 7.
 {{< tdopen >}}
 Problem M21 ({{% resource_link 8447288d-5a53-667f-c0ae-de95a97a0321 "PDF" %}})  
   
-Solution M21 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a12f1c3e-a33b-7e3f-498a-3ad337dd3cd6 "PDF" %}})
+Solution M21 ({{% resource_link a12f1c3e-a33b-7e3f-498a-3ad337dd3cd6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -595,7 +595,7 @@ Crandall, Dahl, and Lardner. Section 5.6.
 {{< tdopen >}}
 Problem M22 ({{% resource_link 99fc2f80-1c2e-fa82-cca3-8c5b88ff45a9 "PDF" %}})  
   
-Solution M22 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link dc8f9dc7-71af-f0ee-8e33-8b3589e2b82e "PDF" %}})
+Solution M22 ({{% resource_link dc8f9dc7-71af-f0ee-8e33-8b3589e2b82e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -618,7 +618,7 @@ Crandall, Dahl, and Lardner. Section 5.6.
 {{< tdopen >}}
 Problem M23 ({{% resource_link 28e857dc-d2e4-f739-0d98-f695a503d313 "PDF" %}})  
   
-Solution M23 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1033748e-d827-5d24-d9d7-b17b379adf41 "PDF" %}})
+Solution M23 ({{% resource_link 1033748e-d827-5d24-d9d7-b17b379adf41 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -641,7 +641,7 @@ Engineering Notation
 {{< tdopen >}}
 Problem M24 ({{% resource_link 3a079e47-a0ee-ef5b-1c04-c84fcbe26141 "PDF" %}})  
   
-Solution M24 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 0831bb39-992c-17f5-bc0a-67ddc2da6207 "PDF" %}})
+Solution M24 ({{% resource_link 0831bb39-992c-17f5-bc0a-67ddc2da6207 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -710,10 +710,10 @@ ASSIGNMENTS / SOLUTIONS
 M1
 {{< tdclose >}}
 {{< tdopen >}}
-Slender Structures (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link b05b9c57-99b4-32cc-8c3a-3503da5656ce "PDF" %}})
+Slender Structures ({{% resource_link b05b9c57-99b4-32cc-8c3a-3503da5656ce "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 2356e487-625e-0eb7-dbac-f1f698c471d3 "PDF" %}})
+({{% resource_link 2356e487-625e-0eb7-dbac-f1f698c471d3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 70f36d68-9318-4169-b0db-214e99f1fd7b "PDF" %}})
@@ -724,7 +724,7 @@ Slender Structures (![This resource may not render correctly in a screen reader.
 {{< tdopen >}}
 Problem M1 ({{% resource_link 499da874-840d-0d74-31e6-84f53cbd2373 "PDF" %}})  
   
-Solution M1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 751a1bef-cfa1-45a1-12af-5e311ba4bdf2 "PDF" %}})
+Solution M1 ({{% resource_link 751a1bef-cfa1-45a1-12af-5e311ba4bdf2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -733,7 +733,7 @@ Solution M1 (![This resource may not render correctly in a screen reader.](/imag
 M2
 {{< tdclose >}}
 {{< tdopen >}}
-Statics of Beams (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link b05b9c57-99b4-32cc-8c3a-3503da5656ce "PDF" %}})
+Statics of Beams ({{% resource_link b05b9c57-99b4-32cc-8c3a-3503da5656ce "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link ea85f658-50ac-cf0b-f9f2-a4374bd23e0c "PDF" %}})
@@ -747,7 +747,7 @@ Statics of Beams (![This resource may not render correctly in a screen reader.](
 {{< tdopen >}}
 Problem M2 ({{% resource_link 521fe21f-aaa4-abf2-20f3-191667f3cf3d "PDF" %}})  
   
-Solution M2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 58acb35b-19df-1545-51b3-80712b6a5ad9 "PDF" %}})
+Solution M2 ({{% resource_link 58acb35b-19df-1545-51b3-80712b6a5ad9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -756,7 +756,7 @@ Solution M2 (![This resource may not render correctly in a screen reader.](/imag
 M3
 {{< tdclose >}}
 {{< tdopen >}}
-Shear Forces and Bending Moments in Beams (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link b05b9c57-99b4-32cc-8c3a-3503da5656ce "PDF" %}})
+Shear Forces and Bending Moments in Beams ({{% resource_link b05b9c57-99b4-32cc-8c3a-3503da5656ce "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 33656cb6-a225-3851-5d5b-6467fe7f795b "PDF" %}})
@@ -770,7 +770,7 @@ Shear Forces and Bending Moments in Beams (![This resource may not render correc
 {{< tdopen >}}
 Problem M3 ({{% resource_link 8a91e114-9ca9-8dab-0121-6ceea4d493f2 "PDF" %}})  
   
-Solution M3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 7d648235-316f-b092-43d0-fb4bc5ec8196 "PDF" %}})
+Solution M3 ({{% resource_link 7d648235-316f-b092-43d0-fb4bc5ec8196 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -779,7 +779,7 @@ Solution M3 (![This resource may not render correctly in a screen reader.](/imag
 M4
 {{< tdclose >}}
 {{< tdopen >}}
-Simple Beam Theory (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link b05b9c57-99b4-32cc-8c3a-3503da5656ce "PDF" %}})
+Simple Beam Theory ({{% resource_link b05b9c57-99b4-32cc-8c3a-3503da5656ce "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 89e24791-cd42-119b-808f-feedba37c316 "PDF" %}})
@@ -793,7 +793,7 @@ Simple Beam Theory (![This resource may not render correctly in a screen reader.
 {{< tdopen >}}
 Problem M4 ({{% resource_link 516f3daa-093f-68fe-6423-e96cad4d4652 "PDF" %}})  
   
-Solution M4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e23c292e-fb88-a896-8b86-84ec916fad1f "PDF" %}})
+Solution M4 ({{% resource_link e23c292e-fb88-a896-8b86-84ec916fad1f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -802,13 +802,13 @@ Solution M4 (![This resource may not render correctly in a screen reader.](/imag
 M5
 {{< tdclose >}}
 {{< tdopen >}}
-Simple Beam Theory (cont.) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f66f80cd-5fbd-5cf8-295d-7b1e1e28a368 "PDF" %}})
+Simple Beam Theory (cont.) ({{% resource_link f66f80cd-5fbd-5cf8-295d-7b1e1e28a368 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 512ba54f-4a69-3ab9-cf89-b9fa502283d1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 99e01fb9-6490-afed-9751-7e23c2c99b05 "PDF" %}})
+({{% resource_link 99e01fb9-6490-afed-9751-7e23c2c99b05 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Crandall, Dahl, and Lardner. Sections 7.2-7.6.
@@ -816,7 +816,7 @@ Crandall, Dahl, and Lardner. Sections 7.2-7.6.
 {{< tdopen >}}
 Problem M5 ({{% resource_link 1002d1af-24d7-31b2-a900-9545ec706dce "PDF" %}})  
   
-Solution M5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 9f2da5a7-452b-b58c-6228-a2e34327c422 "PDF" %}})
+Solution M5 ({{% resource_link 9f2da5a7-452b-b58c-6228-a2e34327c422 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -825,7 +825,7 @@ Solution M5 (![This resource may not render correctly in a screen reader.](/imag
 M6
 {{< tdclose >}}
 {{< tdopen >}}
-Shear Stresses in Simple Beam Theory (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f66f80cd-5fbd-5cf8-295d-7b1e1e28a368 "PDF" %}})
+Shear Stresses in Simple Beam Theory ({{% resource_link f66f80cd-5fbd-5cf8-295d-7b1e1e28a368 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 6346b4d6-1e8a-04d2-caab-4d97af36f003 "PDF" %}})
@@ -839,7 +839,7 @@ Crandall, Dahl, and Lardner. Section 7.6.
 {{< tdopen >}}
 Problem M6 ({{% resource_link fc376655-09d9-feef-6da2-fec53be270b1 "PDF" %}})  
   
-Solution M6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 47710ecd-8f1e-6cdc-f10f-d54655819633 "PDF" %}})
+Solution M6 ({{% resource_link 47710ecd-8f1e-6cdc-f10f-d54655819633 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -848,10 +848,10 @@ Solution M6 (![This resource may not render correctly in a screen reader.](/imag
 M7
 {{< tdclose >}}
 {{< tdopen >}}
-Examples and Applications of Beam Theory (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f66f80cd-5fbd-5cf8-295d-7b1e1e28a368 "PDF" %}})
+Examples and Applications of Beam Theory ({{% resource_link f66f80cd-5fbd-5cf8-295d-7b1e1e28a368 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link b86d34bd-df19-d9af-1e62-7c746b1ec7f1 "PDF" %}})
+({{% resource_link b86d34bd-df19-d9af-1e62-7c746b1ec7f1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 8f22587b-2f6a-b55f-58aa-d8bc9894ab52 "PDF" %}})
@@ -862,7 +862,7 @@ Crandall, Dahl, and Lardner. Sections 8.1-8.3.
 {{< tdopen >}}
 Problem M7 ({{% resource_link 2f45512c-1ae7-e7a0-2c82-fdac9b6f24ea "PDF" %}})  
   
-Solution M7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link ea34c03a-d4eb-d2eb-199b-87be6074d59b "PDF" %}})
+Solution M7 ({{% resource_link ea34c03a-d4eb-d2eb-199b-87be6074d59b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -871,7 +871,7 @@ Solution M7 (![This resource may not render correctly in a screen reader.](/imag
 M8
 {{< tdclose >}}
 {{< tdopen >}}
-Application of Simple Beam Theory: Discontinuous Loading and Statically Indeterminate Structures (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f66f80cd-5fbd-5cf8-295d-7b1e1e28a368 "PDF" %}})
+Application of Simple Beam Theory: Discontinuous Loading and Statically Indeterminate Structures ({{% resource_link f66f80cd-5fbd-5cf8-295d-7b1e1e28a368 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link d81d7246-cf7f-ae2b-98bc-73b4717a8868 "PDF" %}})
@@ -885,7 +885,7 @@ Crandall, Dahl, and Lardner. Sections 3.4, 3.6, and 8.3.
 {{< tdopen >}}
 Problem M8 ({{% resource_link 2f45512c-1ae7-e7a0-2c82-fdac9b6f24ea "PDF" %}})  
   
-Solution M8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link ea34c03a-d4eb-d2eb-199b-87be6074d59b "PDF" %}})
+Solution M8 ({{% resource_link ea34c03a-d4eb-d2eb-199b-87be6074d59b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -908,7 +908,7 @@ Crandall, Dahl, and Lardner. Sections 6.2, 6.3.
 {{< tdopen >}}
 Problem M9 ({{% resource_link 35a20ee4-b53f-9e53-9455-36d0e77c26ee "PDF" %}})  
   
-Solution M9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1f63eaa2-582d-0d90-c69c-31fbe7a32acd "PDF" %}})
+Solution M9 ({{% resource_link 1f63eaa2-582d-0d90-c69c-31fbe7a32acd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -937,7 +937,7 @@ Crandall, Dahl, and Lardner. Sections 9.2, 9.3.
 {{< tdopen >}}
 Problem M10 ({{% resource_link fae88838-ebc7-c185-9feb-da104a1ea23d "PDF" %}})  
   
-Solution M10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 3fcb7df1-3ca7-66f9-7929-27f4ca44883f "PDF" %}})
+Solution M10 ({{% resource_link 3fcb7df1-3ca7-66f9-7929-27f4ca44883f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -960,7 +960,7 @@ Crandall, Dahl, and Lardner. Sections 9.2, 9.3.
 {{< tdopen >}}
 Problem M11 ({{% resource_link bba9c365-5dd6-b128-5cb7-15333d99259f "PDF" %}})  
   
-Solution M11 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a2dc9076-2a19-4507-49c0-406c1a063967 "PDF" %}})
+Solution M11 ({{% resource_link a2dc9076-2a19-4507-49c0-406c1a063967 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -969,7 +969,7 @@ Solution M11 (![This resource may not render correctly in a screen reader.](/ima
 M12
 {{< tdclose >}}
 {{< tdopen >}}
-Buckling of Simple Columns (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 3ae07fde-c6c3-066a-886e-16f3d45534cf "PDF" %}})
+Buckling of Simple Columns ({{% resource_link 3ae07fde-c6c3-066a-886e-16f3d45534cf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 99dec618-f037-32f7-4414-6eea72959d5d "PDF" %}})
@@ -983,7 +983,7 @@ Crandall, Dahl, and Lardner. Section 9.4.
 {{< tdopen >}}
 Problem M12 ({{% resource_link a3d68e10-e0e8-fbff-0749-1818d3d4ebac "PDF" %}})  
   
-Solution M12 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 09bb01fe-22c0-7e60-3c8f-ba6853419144 "PDF" %}})
+Solution M12 ({{% resource_link 09bb01fe-22c0-7e60-3c8f-ba6853419144 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -992,7 +992,7 @@ Solution M12 (![This resource may not render correctly in a screen reader.](/ima
 M13
 {{< tdclose >}}
 {{< tdopen >}}
-Buckling of Simple Columns (cont.) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 3ae07fde-c6c3-066a-886e-16f3d45534cf "PDF" %}})
+Buckling of Simple Columns (cont.) ({{% resource_link 3ae07fde-c6c3-066a-886e-16f3d45534cf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 1bd7bbc1-1495-ed50-27f2-906fbf9f851c "PDF" %}})
@@ -1006,7 +1006,7 @@ Crandall, Dahl, and Lardner. Section 9.4.
 {{< tdopen >}}
 Problem M13 ({{% resource_link cbc1b8d3-f886-c026-eb22-8ba656276145 "PDF" %}})  
   
-Solution M13 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1c954ba4-9f1a-d1fe-bdf4-1726f2a64325 "PDF" %}})
+Solution M13 ({{% resource_link 1c954ba4-9f1a-d1fe-bdf4-1726f2a64325 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -1029,7 +1029,7 @@ Exam Review
 {{< tdopen >}}
 Problem M14 ({{% resource_link 20c86f5d-e961-1d6b-1c14-52bcf176255f "PDF" %}})  
   
-Solution M14 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 08b5f2a0-2dff-172a-5f6e-c65e3ba7dcaf "PDF" %}})
+Solution M14 ({{% resource_link 08b5f2a0-2dff-172a-5f6e-c65e3ba7dcaf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -1044,7 +1044,7 @@ Solution M14 (![This resource may not render correctly in a screen reader.](/ima
 M15
 {{< tdclose >}}
 {{< tdopen >}}
-Yielding and Plasticity (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a6dca6c1-64b1-701c-7e66-6c3964a9c6c4 "PDF" %}})
+Yielding and Plasticity ({{% resource_link a6dca6c1-64b1-701c-7e66-6c3964a9c6c4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 424e85e4-5754-17d0-2575-15623e119538 "PDF" %}})
@@ -1058,7 +1058,7 @@ Ashby, and Jones. Chapters 8, 11.
 {{< tdopen >}}
 Problem M15 ({{% resource_link 3d847612-6c87-cbd9-931d-2fcece6270f6 "PDF" %}})  
   
-Solution M15 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 100aa084-3c7a-761e-64f0-8b8f7561e312 "PDF" %}})
+Solution M15 ({{% resource_link 100aa084-3c7a-761e-64f0-8b8f7561e312 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -1067,7 +1067,7 @@ Solution M15 (![This resource may not render correctly in a screen reader.](/ima
 M16
 {{< tdclose >}}
 {{< tdopen >}}
-Origins of Plasticity, Alloying (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a6dca6c1-64b1-701c-7e66-6c3964a9c6c4 "PDF" %}})
+Origins of Plasticity, Alloying ({{% resource_link a6dca6c1-64b1-701c-7e66-6c3964a9c6c4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 2dff4bcb-f4e5-c3a0-6007-eea0d4ef6ec7 "PDF" %}})
@@ -1081,7 +1081,7 @@ Ashby, and Jones. Chapters 9-10.
 {{< tdopen >}}
 Problem M16 ({{% resource_link e9a5f7bf-ce40-14c6-2ae4-6ce0844ce885 "PDF" %}})  
   
-Solution M16 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 43abd760-c788-29ef-81c3-e1e33a765984 "PDF" %}})
+Solution M16 ({{% resource_link 43abd760-c788-29ef-81c3-e1e33a765984 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -1090,7 +1090,7 @@ Solution M16 (![This resource may not render correctly in a screen reader.](/ima
 M17
 {{< tdclose >}}
 {{< tdopen >}}
-Yield of Structures (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a6dca6c1-64b1-701c-7e66-6c3964a9c6c4 "PDF" %}})
+Yield of Structures ({{% resource_link a6dca6c1-64b1-701c-7e66-6c3964a9c6c4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 2d81ef47-f7ce-e1ec-204d-02dfdd4c6125 "PDF" %}})
@@ -1104,7 +1104,7 @@ Crandall, Dahl, and Lardner. Section 3.11.
 {{< tdopen >}}
 Problem M17 ({{% resource_link 4d46614e-65cd-f00c-a23c-1bc15c44444f "PDF" %}})  
   
-Solution M17 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 3482ac01-63f3-ac32-3483-a39e5a414671 "PDF" %}})
+Solution M17 ({{% resource_link 3482ac01-63f3-ac32-3483-a39e5a414671 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -1113,13 +1113,13 @@ Solution M17 (![This resource may not render correctly in a screen reader.](/ima
 M18
 {{< tdclose >}}
 {{< tdopen >}}
-Fast Fracture and Toughness (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a6dca6c1-64b1-701c-7e66-6c3964a9c6c4 "PDF" %}})
+Fast Fracture and Toughness ({{% resource_link a6dca6c1-64b1-701c-7e66-6c3964a9c6c4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 9a3e0c3c-335d-5b0d-9aff-0a3403df2460 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e2027265-3766-063e-2abb-71951e6ca8bd "PDF" %}})
+({{% resource_link e2027265-3766-063e-2abb-71951e6ca8bd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ashby, and Jones. Chapters 13-14.
@@ -1127,7 +1127,7 @@ Ashby, and Jones. Chapters 13-14.
 {{< tdopen >}}
 Problem M18 ({{% resource_link cfb52f3f-4302-1768-ad24-0d8cfc5ff812 "PDF" %}})  
   
-Solution M18 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link b8f27590-2c21-8873-bca3-f1d704fb221d "PDF" %}})
+Solution M18 ({{% resource_link b8f27590-2c21-8873-bca3-f1d704fb221d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -1150,7 +1150,7 @@ Ashby, and Jones. Chapters 15-16.
 {{< tdopen >}}
 Problem M19 ({{% resource_link ae339e47-fbf1-a9fa-04c8-03713e2f3c9c "PDF" %}})  
   
-Solution M19 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e0a617ab-0318-5cee-4f28-986178ce0968 "PDF" %}})
+Solution M19 ({{% resource_link e0a617ab-0318-5cee-4f28-986178ce0968 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -1173,7 +1173,7 @@ Ashby, and Jones. Chapters 17-27.
 {{< tdopen >}}
 Problem M20 ({{% resource_link a1b82a0a-a640-29e6-416c-3d5f97e0993b "PDF" %}})  
   
-Solution M20 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 6effcfa2-8e5e-19f1-eeea-ff53a5e4388c "PDF" %}})
+Solution M20 ({{% resource_link 6effcfa2-8e5e-19f1-eeea-ff53a5e4388c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -1201,4 +1201,4 @@ A handout of relevant equations and figures is distributed with each quiz. Stude
 
 16.03-16.04 Quiz 1 Handout ({{% resource_link 26a4c795-200c-2760-9441-1ecf58e297d3 "PDF" %}})
 
-16.03-16.04 Quiz 3 Handout (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1f1b4e82-bae2-ff8c-e609-bc96fe20eedb "PDF" %}})
+16.03-16.04 Quiz 3 Handout ({{% resource_link 1f1b4e82-bae2-ff8c-e609-bc96fe20eedb "PDF" %}})
