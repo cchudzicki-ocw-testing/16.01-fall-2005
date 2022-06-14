@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains diagrams for Decalage Angle Definitions.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/56061159f5137df4000608074e4f8182_spl9e.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/56061159f5137df4000608074e4f8182_spl9e.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This file contains diagrams for Decalage Angle Definitions.

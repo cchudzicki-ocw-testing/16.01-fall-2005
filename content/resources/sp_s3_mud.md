@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review questions and answers.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7da47fb5e91f4cddf804875754728302_sp_S3_mud.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7da47fb5e91f4cddf804875754728302_sp_S3_mud.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Review questions and answers.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/c78ea8c0cfea742f3c7d91414895f149_problem_s06.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/c78ea8c0cfea742f3c7d91414895f149_problem_s06.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

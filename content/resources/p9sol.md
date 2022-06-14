@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains argument based on kinetic energy, euler theorem,
   and aerodynamics.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b56696430930351ae95a0966f79e1151_P9sol.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b56696430930351ae95a0966f79e1151_P9sol.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains argument based on kinetic energy, euler theorem, and aerodynamics.

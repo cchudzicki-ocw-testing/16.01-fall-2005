@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Grading sheet for systems problems.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/0b67a806a06b45db0f439a692a11985a_sp1grading_rubric.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/0b67a806a06b45db0f439a692a11985a_sp1grading_rubric.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Grading sheet for systems problems.

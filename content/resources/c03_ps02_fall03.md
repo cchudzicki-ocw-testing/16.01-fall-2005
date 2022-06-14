@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains the problem set C3 regarding the weight.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9f012235eb23fe110c720114e4eed13c_c03_ps02_fall03.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9f012235eb23fe110c720114e4eed13c_c03_ps02_fall03.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This handout contains the problem set C3 regarding the weight.

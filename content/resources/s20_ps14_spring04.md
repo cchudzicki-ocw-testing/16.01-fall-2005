@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set regarding Signals and Systems.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9f35a04270bdec5f1a2c0e4f5a077809_s20_ps14_spring04.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9f35a04270bdec5f1a2c0e4f5a077809_s20_ps14_spring04.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Problem set regarding Signals and Systems.

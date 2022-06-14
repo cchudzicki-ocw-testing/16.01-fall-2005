@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on fluids,Signals and Systems.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/297f5265c1dd9bcd41421d977afbf42d_spring04_pset7.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/297f5265c1dd9bcd41421d977afbf42d_spring04_pset7.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Problem set on fluids,Signals and Systems.

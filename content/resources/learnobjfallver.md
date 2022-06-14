@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Learning Objectives for 16.01-16.02 Computers and Programming.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e20555128399efc07d6b0a267bead555_learnobjfallver.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e20555128399efc07d6b0a267bead555_learnobjfallver.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Learning Objectives for 16.01-16.02 Computers and Programming.

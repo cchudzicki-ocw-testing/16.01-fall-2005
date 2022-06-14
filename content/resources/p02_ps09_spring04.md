@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems based on instructive illustration of
   integral momentum and motion.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8caa0db1aecea5c145c3e2984e331cc6_p02_ps09_spring04.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8caa0db1aecea5c145c3e2984e331cc6_p02_ps09_spring04.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains problems based on instructive illustration of integral momentum and motion.

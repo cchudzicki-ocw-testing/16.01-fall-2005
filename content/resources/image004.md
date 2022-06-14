@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f4d7471cf7a79040ed1ab7da606ff9b0_image004.gif
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f4d7471cf7a79040ed1ab7da606ff9b0_image004.gif
 file_type: image/gif
 image_metadata:
   caption: ''

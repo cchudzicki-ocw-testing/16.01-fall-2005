@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten problem set solution.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/101b704a2704aa4d3cdefb6dacfe467c_p03_ps10_sol.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/101b704a2704aa4d3cdefb6dacfe467c_p03_ps10_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Handwritten problem set solution.

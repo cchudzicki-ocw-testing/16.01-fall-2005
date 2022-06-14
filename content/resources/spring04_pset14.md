@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on Signals?and?SystemsSignals?and?Systems.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/2afff076e74b4b5e06baaa004565f79d_spring04_pset14.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/2afff076e74b4b5e06baaa004565f79d_spring04_pset14.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Problem set on Signals?and?SystemsSignals?and?Systems.

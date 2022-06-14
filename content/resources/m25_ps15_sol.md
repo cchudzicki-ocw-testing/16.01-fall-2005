@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions to problem set on polymers, thermosplastics
   and thermosets, and glass transition temperature.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/08ffbe7b05069c0e15fea0e8e332f2f8_m25_ps15_sol.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/08ffbe7b05069c0e15fea0e8e332f2f8_m25_ps15_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains solutions to problem set on polymers, thermosplastics and thermosets, and glass transition temperature.

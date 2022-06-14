@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains handwritten solutions to the given problem on
   chord distribution, spanwise chord distribution.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3cafb019a927ee0bf3eaa8c39be10fbf_f08_ps03_sol.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3cafb019a927ee0bf3eaa8c39be10fbf_f08_ps03_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains handwritten solutions to the given problem on chord distribution, spanwise chord distribution.

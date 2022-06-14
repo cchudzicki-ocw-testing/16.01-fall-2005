@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Hand written solution of problem P1.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/edde99d2b3a560ffec601b0d4fd58dee_P1sol.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/edde99d2b3a560ffec601b0d4fd58dee_P1sol.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Hand written solution of problem P1.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a9780d802a41c6048b2c5a3b177c80b5_21_adagenerics.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a9780d802a41c6048b2c5a3b177c80b5_21_adagenerics.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

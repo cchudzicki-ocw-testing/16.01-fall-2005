@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to problem set S15 involving BIBO Stability and the Bilateral
   LT, The Fourier Transform.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/52262a1bd5d423a5424d5c8d157faa90_s15_ps12_sol.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/52262a1bd5d423a5424d5c8d157faa90_s15_ps12_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Solutions to problem set S15 involving BIBO Stability and the Bilateral LT, The Fourier Transform.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on double link list,Signals and systems.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/44c57ded7fed04ab0c9ac6f7df8e790a_spring04_pset8.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/44c57ded7fed04ab0c9ac6f7df8e790a_spring04_pset8.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Problem set on double link list,Signals and systems.

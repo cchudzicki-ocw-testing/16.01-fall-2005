@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 8 (2003) presentation.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ac00999dfa4967b7ff4acd8780a9cc91_8new_subtyp_enum.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ac00999dfa4967b7ff4acd8780a9cc91_8new_subtyp_enum.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture 8 (2003) presentation.

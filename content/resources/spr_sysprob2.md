@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for Wind Tunnel Testing a 3-D Wings.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/35cc8971325b9d791af2b512f210b799_spr_sysprob2.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/35cc8971325b9d791af2b512f210b799_spr_sysprob2.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This file contains notes for Wind Tunnel Testing a 3-D Wings.

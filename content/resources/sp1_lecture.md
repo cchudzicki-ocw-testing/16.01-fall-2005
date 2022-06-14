@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Introuductory lecture for the Spring 2004 section of the course.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/60edf6932d813d4c60dc59c1028673c4_sp1_lecture.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/60edf6932d813d4c60dc59c1028673c4_sp1_lecture.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Introuductory lecture for the Spring 2004 section of the course.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Materials and Structures quiz solutions.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/c4ae163c63b39fc709b5e8d91ece0c5f_fall_2003_q4m_sol.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/c4ae163c63b39fc709b5e8d91ece0c5f_fall_2003_q4m_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Materials and Structures quiz solutions.

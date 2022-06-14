@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes problems on truth table for boolean variables, boolean
   algebra theorems, direct proof, and problems from the text Signals and Systems.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/6d5c9fb15053482ab658627624b84836_pset13_sol_04.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/6d5c9fb15053482ab658627624b84836_pset13_sol_04.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This file includes problems on truth table for boolean variables, boolean algebra theorems, direct proof, and problems from the text Signals and Systems.

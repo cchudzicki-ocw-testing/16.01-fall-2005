@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes solutions to problems on integral mass, momentum,
   energy equations, Mach number, Bernoulli equation, and structural design.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/605ca6a8f800ee0d4b2034376ad2e8d4_pset4_sol_04.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/605ca6a8f800ee0d4b2034376ad2e8d4_pset4_sol_04.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This file includes solutions to problems on integral mass, momentum, energy equations, Mach number, Bernoulli equation, and structural design.

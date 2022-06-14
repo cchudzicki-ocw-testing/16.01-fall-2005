@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Procedures for drawing pictures on ANSI Terminal Screen
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d0e6d12828d9b1429f52712db59fc70e_screen.ads
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d0e6d12828d9b1429f52712db59fc70e_screen.ads
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Procedures for drawing pictures on ANSI Terminal Screen

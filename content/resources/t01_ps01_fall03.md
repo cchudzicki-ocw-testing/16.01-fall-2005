@@ -4,7 +4,7 @@ description: 'This resource describe the conversions of
 
   energy (internal, potential, kinetic and chemical) and exchanges of heat and work
   for this system and that of the rocket itself.'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ecf5644a7d20f9b5ec5ea2ab29c2c9df_t01_ps01_fall03.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ecf5644a7d20f9b5ec5ea2ab29c2c9df_t01_ps01_fall03.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -20,3 +20,5 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource describe the conversions of
+energy (internal, potential, kinetic and chemical) and exchanges of heat and work for this system and that of the rocket itself.

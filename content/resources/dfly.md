@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on data file associated with systems
   lab 3.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/54af1853c91cfb09497621ee82b4d17e_dfly.dat
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/54af1853c91cfb09497621ee82b4d17e_dfly.dat
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains information on data file associated with systems lab 3.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes solutions to problem set S8.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f78d410746628ca27617888c0221d5b0_s08_ps09_sol.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f78d410746628ca27617888c0221d5b0_s08_ps09_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource includes solutions to problem set S8.

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on the topic of Scope, Learning Objectives,
   Measurable Outcomes and Assessment Strategy for the course.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f33a110efab5e96dd2828eae5d62289c_learningobjectives.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f33a110efab5e96dd2828eae5d62289c_learningobjectives.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource provides information on the topic of Scope, Learning Objectives, Measurable Outcomes and Assessment Strategy for the course.

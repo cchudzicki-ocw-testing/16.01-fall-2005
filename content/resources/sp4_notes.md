@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on diagrams for water bottle rocket
   lab 1.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a157a1125a8d91244769504d630eedcf_sp4_notes.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a157a1125a8d91244769504d630eedcf_sp4_notes.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains information on diagrams for water bottle rocket lab 1.

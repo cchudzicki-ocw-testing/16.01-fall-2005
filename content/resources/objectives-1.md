@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Learning objectives and measurable outcomes for the course.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7388adedca07885c4cc2bfb6b98338de_objectives.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7388adedca07885c4cc2bfb6b98338de_objectives.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Learning objectives and measurable outcomes for the course.

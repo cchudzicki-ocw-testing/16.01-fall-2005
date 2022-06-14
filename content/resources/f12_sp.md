@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on the topic of Energy Conservation.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/017b07723e0687d3025ba25a4f5d50ee_f12_sp.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/017b07723e0687d3025ba25a4f5d50ee_f12_sp.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains information on the topic of Energy Conservation.

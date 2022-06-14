@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes solutions to problems on thermodynamic cycle, work
   done, velocity, static temperature and Mach number.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/160c7a6f9968904ad3bed3c60c88b9fa_pset3_sol.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/160c7a6f9968904ad3bed3c60c88b9fa_pset3_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This file includes solutions to problems on thermodynamic cycle, work done, velocity, static temperature and Mach number.

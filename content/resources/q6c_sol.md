@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exam with solutions provided by the professor based on queue,MST,Big-O.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7479d1ce5945e5fcda3cc9470faff91c_Q6C_sol.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7479d1ce5945e5fcda3cc9470faff91c_Q6C_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Exam with solutions provided by the professor based on queue,MST,Big-O.

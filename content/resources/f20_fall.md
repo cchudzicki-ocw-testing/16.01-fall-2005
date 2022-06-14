@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource provides information on the topic of Airfoils: Detailed
   Look.'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/eb0b880faacdc1c46679160157ed0f08_f20_fall.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/eb0b880faacdc1c46679160157ed0f08_f20_fall.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource provides information on the topic of Airfoils: Detailed Look.

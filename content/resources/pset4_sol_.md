@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes solutions to problems on static and stagnation temperatures,
   and pressures, and unified computers and programming.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/bb9b6111cae44d581725baaaf0c92428_pset4_sol_.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/bb9b6111cae44d581725baaaf0c92428_pset4_sol_.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This file includes solutions to problems on static and stagnation temperatures, and pressures, and unified computers and programming.

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file discusses about the voltage source, the current source, solving
   networks and Kirchhoff's laws.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/de37ee90eb6dd11a83f843bc264359e4_s02_lec.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/de37ee90eb6dd11a83f843bc264359e4_s02_lec.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This file discusses about the voltage source, the current source, solving networks and Kirchhoff's laws.

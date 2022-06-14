@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/da415920d119583a7c8b6a2bed114894_energyforms.jpg
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/da415920d119583a7c8b6a2bed114894_energyforms.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

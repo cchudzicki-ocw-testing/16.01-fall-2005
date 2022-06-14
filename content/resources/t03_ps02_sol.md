@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Hand written solution of problem Unified T3.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d39b84a31f68daec58039f9ff69e1529_t03_ps02_sol.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d39b84a31f68daec58039f9ff69e1529_t03_ps02_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Hand written solution of problem Unified T3.

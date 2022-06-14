@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on Buckling of Simple Columns.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3ae07fdec6c3066a886e16f3d45534cf_gm12_13notes.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3ae07fdec6c3066a886e16f3d45534cf_gm12_13notes.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture notes on Buckling of Simple Columns.

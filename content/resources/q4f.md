@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Fluid Mechanics quiz with solutions.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/36ffb58462b875b2f2323dad758b6dd8_q4f.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/36ffb58462b875b2f2323dad758b6dd8_q4f.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Fluid Mechanics quiz with solutions.

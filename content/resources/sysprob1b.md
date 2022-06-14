@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the exercise for Centerline pressures, Maximum, minimum
   pressures etc.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/dc7964563e7b0a63759d70857d51e597_sysprob1b.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/dc7964563e7b0a63759d70857d51e597_sysprob1b.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This file contains the exercise for Centerline pressures, Maximum, minimum pressures etc.
