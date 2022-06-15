@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: The section systems/labs 04 discusses about instructor, learning objectives,
+  systems problems, aerial competition, additional resources and tables for this course.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection

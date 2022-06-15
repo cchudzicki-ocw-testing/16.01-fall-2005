@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains documents created from scanned original files and
+  other documents that could not be made accessible to screen reader software. A "#"
+  symbol is used to denote such documents.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

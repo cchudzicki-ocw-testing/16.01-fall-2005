@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lecture notes, related assignments, and study materials.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Signals and Systems
