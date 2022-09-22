@@ -5,6 +5,7 @@ description: This file discusses about what are the steps in the node method, th
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/188228dac72f55ee8e375f5f04164e05_node_loop_meth.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection
